@@ -1,0 +1,14 @@
+{
+  "data": {
+    "language": "en",
+    "name": "Bay Wheels",
+    "operator": "Lyft, Inc",
+    "phone_number": "855-480-BIKE",
+    "short_name": "Bay Wheels",
+    "system_id": "fgb",
+    "timezone": "America/Los_Angeles",
+    "url": "https://www.lyft.com/bikes"
+  },
+  "last_updated": 1659910175,
+  "ttl": 5
+}
