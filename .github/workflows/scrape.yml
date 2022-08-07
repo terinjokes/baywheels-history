@@ -1,0 +1,17 @@
+name: Scrape Latest Data
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: '5,12,20,27,35,42,50,57 * * * *'
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: nixbuild/nix-quick-install-action@v16
+      - run: ./update.sh
+        env:
+          NIX_PATH: nixpkgs=channel:nixos-unstable
