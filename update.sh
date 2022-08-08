@@ -12,12 +12,12 @@
     ;
 
 ... curl -Ss --fail https://gbfs.baywheels.com/gbfs/en/free_bike_status.json -H"User-Agent: https://terinstock.com"
-    | jq -S '.data.bikes |= sort_by(.bikes_id)'
+    | jq -S '.data.bikes |= sort_by(.bike_id)'
     > free_bike_status.json
     ;
 
 ... curl -Ss --fail https://gbfs.baywheels.com/gbfs/en/system_alerts.json -H"User-Agent: https://terinstock.com"
-    | jq -S '.data.alerts |= sort_by(.alerts_id)'
+    | jq -S '.data.alerts |= sort_by(.alert_id)'
     > system_alerts.json
     ;
 
