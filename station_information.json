@@ -9215,6 +9215,29 @@
         "station_type": "classic"
       },
       {
+        "capacity": 31,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "c77092b2-476f-498f-8a15-18c9ee51e920",
+        "has_kiosk": true,
+        "lat": 37.77066919835556,
+        "legacy_id": "367",
+        "lon": -122.47940702369306,
+        "name": "Outside Lands (Temporary Station)",
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "OutsideTempStation",
+        "station_id": "367",
+        "station_type": "classic"
+      },
+      {
         "capacity": 3,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
@@ -11880,6 +11903,6 @@
       }
     ]
   },
-  "last_updated": 1659970652,
+  "last_updated": 1659971292,
   "ttl": 5
 }
