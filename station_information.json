@@ -11189,9 +11189,9 @@
         "electric_bike_surcharge_waiver": false,
         "external_id": "f24186f7-5c85-4be8-8328-55de576a88db",
         "has_kiosk": true,
-        "lat": 37.72558734385659,
+        "lat": 37.725372,
         "legacy_id": "434",
-        "lon": -122.39456713199615,
+        "lon": -122.393954,
         "name": "Carroll Ave at 3rd St",
         "region_id": "3",
         "rental_methods": [
@@ -11856,6 +11856,6 @@
       }
     ]
   },
-  "last_updated": 1660313038,
+  "last_updated": 1660313755,
   "ttl": 5
 }
