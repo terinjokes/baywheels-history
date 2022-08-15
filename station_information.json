@@ -8141,9 +8141,9 @@
         "electric_bike_surcharge_waiver": false,
         "external_id": "b15389ba-6c9e-4c5a-bd3b-e4539b8b908c",
         "has_kiosk": true,
-        "lat": 37.7711532,
+        "lat": 37.7711553,
         "legacy_id": "69",
-        "lon": -122.4452011,
+        "lon": -122.4459065,
         "name": "Page St at Masonic Ave",
         "region_id": "3",
         "rental_methods": [
@@ -11856,6 +11856,6 @@
       }
     ]
   },
-  "last_updated": 1660592418,
+  "last_updated": 1660592943,
   "ttl": 5
 }
