@@ -5289,7 +5289,7 @@
         "lat": 37.8126783,
         "legacy_id": "180",
         "lon": -122.2687726,
-        "name": "Telegraph Ave at 23rd St",
+        "name": "23rd St at Telegraph Ave",
         "region_id": "12",
         "rental_methods": [
           "KEY",
@@ -11856,6 +11856,6 @@
       }
     ]
   },
-  "last_updated": 1660593466,
+  "last_updated": 1660594316,
   "ttl": 5
 }
