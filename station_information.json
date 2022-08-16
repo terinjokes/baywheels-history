@@ -5286,9 +5286,9 @@
         "electric_bike_surcharge_waiver": false,
         "external_id": "74e8630e-7e2a-447f-ae87-5c9898c7346a",
         "has_kiosk": true,
-        "lat": 37.8126783,
+        "lat": 37.81258108581741,
         "legacy_id": "180",
-        "lon": -122.2687726,
+        "lon": -122.26857304573059,
         "name": "23rd St at Telegraph Ave",
         "region_id": "12",
         "rental_methods": [
@@ -11856,6 +11856,6 @@
       }
     ]
   },
-  "last_updated": 1660653830,
+  "last_updated": 1660655030,
   "ttl": 5
 }
