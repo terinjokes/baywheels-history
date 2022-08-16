@@ -584,9 +584,9 @@
         "electric_bike_surcharge_waiver": false,
         "external_id": "10c593a0-39c8-45ec-bbf6-fd7fbdf30cb5",
         "has_kiosk": true,
-        "lat": 37.80318908113163,
+        "lat": 37.80303013575619,
         "legacy_id": "338",
-        "lon": -122.27057933807373,
+        "lon": -122.27049618959427,
         "name": "13th St at Franklin St",
         "region_id": "12",
         "rental_methods": [
@@ -11856,6 +11856,6 @@
       }
     ]
   },
-  "last_updated": 1660681241,
+  "last_updated": 1660682030,
   "ttl": 5
 }
