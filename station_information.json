@@ -6214,6 +6214,30 @@
         "station_type": "classic"
       },
       {
+        "capacity": 15,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "87168190-5491-47c8-bb9b-187ddf6052c3",
+        "has_kiosk": true,
+        "lat": 37.76909488728109,
+        "legacy_id": "460",
+        "lon": -122.38633275032042,
+        "name": "Terry Francois Blvd at Warriors Way",
+        "region_id": "3",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "SF-M30-2",
+        "station_id": "460",
+        "station_type": "classic"
+      },
+      {
         "capacity": 23,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
@@ -11879,6 +11903,6 @@
       }
     ]
   },
-  "last_updated": 1661796807,
+  "last_updated": 1661797867,
   "ttl": 5
 }
