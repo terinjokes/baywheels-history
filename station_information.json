@@ -6071,12 +6071,12 @@
         "station_type": "classic"
       },
       {
-        "capacity": 0,
+        "capacity": 3,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
         "external_id": "840ab61e-f6aa-4174-9881-5d57201ce1b9",
-        "has_kiosk": false,
+        "has_kiosk": true,
         "lat": 37.78899099599619,
         "legacy_id": "583",
         "lon": -122.3922550678253,
@@ -11879,6 +11879,6 @@
       }
     ]
   },
-  "last_updated": 1661787566,
+  "last_updated": 1661788190,
   "ttl": 5
 }
