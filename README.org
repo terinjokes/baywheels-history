@@ -6,7 +6,6 @@ Tracking the station and bike information for the Bay Wheels bikeshare system. I
 
 | Filename                   | Description                                                                      |
 |----------------------------+----------------------------------------------------------------------------------|
-| =free_bike_station.json=   | Describes dockless bicycles not in an active rental (or otherwise inaccessible). |
 | =station_information.json= | Information about all the public stations.                                       |
 | =station_status.json=      | Information about capacity, availability and services at each station.            |
 | =system_alerts.json=       | Announces system or station closures.                                            |
