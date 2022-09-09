@@ -2125,8 +2125,8 @@
         "lon": -122.455079,
         "name": "Mason St at Halleck St",
         "rental_methods": [
-          "KEY",
-          "CREDITCARD"
+          "CREDITCARD",
+          "KEY"
         ],
         "rental_uris": {
           "android": "https://sfo.lft.to/lastmile_qr_scan",
@@ -2748,8 +2748,8 @@
         "lon": -122.44430475172521,
         "name": "Detroit St at Hearst Ave",
         "rental_methods": [
-          "KEY",
-          "CREDITCARD"
+          "CREDITCARD",
+          "KEY"
         ],
         "rental_uris": {
           "android": "https://sfo.lft.to/lastmile_qr_scan",
@@ -6011,8 +6011,8 @@
         "lon": -122.44272915651891,
         "name": "Divisadero St at Lombard St",
         "rental_methods": [
-          "KEY",
-          "CREDITCARD"
+          "CREDITCARD",
+          "KEY"
         ],
         "rental_uris": {
           "android": "https://sfo.lft.to/lastmile_qr_scan",
@@ -6082,8 +6082,8 @@
         "lon": -122.3922550678253,
         "name": "Folsom St at Main St",
         "rental_methods": [
-          "KEY",
-          "CREDITCARD"
+          "CREDITCARD",
+          "KEY"
         ],
         "rental_uris": {
           "android": "https://sfo.lft.to/lastmile_qr_scan",
@@ -6226,8 +6226,8 @@
         "name": "Terry Francois Blvd at Warriors Way",
         "region_id": "3",
         "rental_methods": [
-          "KEY",
-          "CREDITCARD"
+          "CREDITCARD",
+          "KEY"
         ],
         "rental_uris": {
           "android": "https://sfo.lft.to/lastmile_qr_scan",
@@ -6922,8 +6922,8 @@
         "name": "Berryessa BART Station (Mabury Rd at Lenfest Rd)",
         "region_id": "5",
         "rental_methods": [
-          "KEY",
-          "CREDITCARD"
+          "CREDITCARD",
+          "KEY"
         ],
         "rental_uris": {
           "android": "https://sfo.lft.to/lastmile_qr_scan",
@@ -11903,6 +11903,6 @@
       }
     ]
   },
-  "last_updated": 1662756179,
+  "last_updated": 1662756880,
   "ttl": 5
 }
