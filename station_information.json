@@ -2121,9 +2121,10 @@
         "external_id": "35e3bf9b-4c65-4f2b-9d46-32afe9fe82d9",
         "has_kiosk": true,
         "lat": 37.803968,
-        "legacy_id": "582",
+        "legacy_id": "35e3bf9b-4c65-4f2b-9d46-32afe9fe82d9",
         "lon": -122.455079,
         "name": "Mason St at Halleck St",
+        "region_id": "0",
         "rental_methods": [
           "KEY",
           "CREDITCARD"
@@ -2133,7 +2134,7 @@
           "ios": "https://sfo.lft.to/lastmile_qr_scan"
         },
         "short_name": "SF-A15",
-        "station_id": "582",
+        "station_id": "35e3bf9b-4c65-4f2b-9d46-32afe9fe82d9",
         "station_type": "classic"
       },
       {
@@ -2744,9 +2745,10 @@
         "external_id": "41b2200f-7915-410b-95c6-084bc4d3dee8",
         "has_kiosk": true,
         "lat": 37.730655429236556,
-        "legacy_id": "578",
+        "legacy_id": "41b2200f-7915-410b-95c6-084bc4d3dee8",
         "lon": -122.44430475172521,
         "name": "Detroit St at Hearst Ave",
+        "region_id": "0",
         "rental_methods": [
           "KEY",
           "CREDITCARD"
@@ -2756,7 +2758,7 @@
           "ios": "https://sfo.lft.to/lastmile_qr_scan"
         },
         "short_name": "SF-X16",
-        "station_id": "578",
+        "station_id": "41b2200f-7915-410b-95c6-084bc4d3dee8",
         "station_type": "classic"
       },
       {
@@ -6007,9 +6009,10 @@
         "external_id": "82ad4cff-001f-49a8-88fa-a5a63d64b9a2",
         "has_kiosk": true,
         "lat": 37.79917511263459,
-        "legacy_id": "577",
+        "legacy_id": "82ad4cff-001f-49a8-88fa-a5a63d64b9a2",
         "lon": -122.44272915651891,
         "name": "Divisadero St at Lombard St",
+        "region_id": "0",
         "rental_methods": [
           "KEY",
           "CREDITCARD"
@@ -6019,7 +6022,7 @@
           "ios": "https://sfo.lft.to/lastmile_qr_scan"
         },
         "short_name": "SF-C18",
-        "station_id": "577",
+        "station_id": "82ad4cff-001f-49a8-88fa-a5a63d64b9a2",
         "station_type": "classic"
       },
       {
@@ -6078,9 +6081,10 @@
         "external_id": "840ab61e-f6aa-4174-9881-5d57201ce1b9",
         "has_kiosk": true,
         "lat": 37.78899099599619,
-        "legacy_id": "583",
+        "legacy_id": "840ab61e-f6aa-4174-9881-5d57201ce1b9",
         "lon": -122.3922550678253,
         "name": "Folsom St at Main St",
+        "region_id": "0",
         "rental_methods": [
           "KEY",
           "CREDITCARD"
@@ -6090,7 +6094,7 @@
           "ios": "https://sfo.lft.to/lastmile_qr_scan"
         },
         "short_name": "SF-F30-3",
-        "station_id": "583",
+        "station_id": "840ab61e-f6aa-4174-9881-5d57201ce1b9",
         "station_type": "classic"
       },
       {
@@ -6221,7 +6225,7 @@
         "external_id": "87168190-5491-47c8-bb9b-187ddf6052c3",
         "has_kiosk": true,
         "lat": 37.76909488728109,
-        "legacy_id": "460",
+        "legacy_id": "87168190-5491-47c8-bb9b-187ddf6052c3",
         "lon": -122.38633275032042,
         "name": "Terry Francois Blvd at Warriors Way",
         "region_id": "3",
@@ -6234,7 +6238,7 @@
           "ios": "https://sfo.lft.to/lastmile_qr_scan"
         },
         "short_name": "SF-M30-2",
-        "station_id": "460",
+        "station_id": "87168190-5491-47c8-bb9b-187ddf6052c3",
         "station_type": "classic"
       },
       {
@@ -6917,7 +6921,7 @@
         "external_id": "93d95ded-d49e-43bc-b7fe-6ce556569088",
         "has_kiosk": true,
         "lat": 37.36508806048156,
-        "legacy_id": "579",
+        "legacy_id": "93d95ded-d49e-43bc-b7fe-6ce556569088",
         "lon": -121.87161205351002,
         "name": "Berryessa BART Station (Mabury Rd at Lenfest Rd)",
         "region_id": "5",
@@ -6930,7 +6934,7 @@
           "ios": "https://sfo.lft.to/lastmile_qr_scan"
         },
         "short_name": "SJ-H16",
-        "station_id": "579",
+        "station_id": "93d95ded-d49e-43bc-b7fe-6ce556569088",
         "station_type": "classic"
       },
       {
@@ -11903,6 +11907,6 @@
       }
     ]
   },
-  "last_updated": 1662852885,
+  "last_updated": 1662853605,
   "ttl": 5
 }
