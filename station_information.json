@@ -770,6 +770,30 @@
         "station_type": "classic"
       },
       {
+        "capacity": 12,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1716540857410079456",
+        "has_kiosk": true,
+        "lat": 37.77447910353,
+        "legacy_id": "1716540857410079456",
+        "lon": -122.41391425,
+        "name": "Howard Grace #2",
+        "region_id": "0",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "SF-K24-3",
+        "station_id": "1716540857410079456",
+        "station_type": "classic"
+      },
+      {
         "capacity": 23,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
@@ -11907,6 +11931,6 @@
       }
     ]
   },
-  "last_updated": 1663272508,
+  "last_updated": 1663273356,
   "ttl": 5
 }
