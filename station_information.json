@@ -5210,30 +5210,6 @@
         "station_type": "classic"
       },
       {
-        "capacity": 12,
-        "eightd_has_key_dispenser": false,
-        "eightd_station_services": [],
-        "electric_bike_surcharge_waiver": false,
-        "external_id": "73f89d7b-016f-425d-8436-617fa0e977fc",
-        "has_kiosk": true,
-        "lat": 37.77447910352623,
-        "legacy_id": "570",
-        "lon": -122.4139142223976,
-        "name": "Howard St at Grace St",
-        "region_id": "0",
-        "rental_methods": [
-          "KEY",
-          "CREDITCARD"
-        ],
-        "rental_uris": {
-          "android": "https://sfo.lft.to/lastmile_qr_scan",
-          "ios": "https://sfo.lft.to/lastmile_qr_scan"
-        },
-        "short_name": "SF-K24-2",
-        "station_id": "73f89d7b-016f-425d-8436-617fa0e977fc",
-        "station_type": "classic"
-      },
-      {
         "capacity": 27,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
@@ -11931,6 +11907,6 @@
       }
     ]
   },
-  "last_updated": 1663279637,
+  "last_updated": 1663280448,
   "ttl": 5
 }
