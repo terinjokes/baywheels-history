@@ -3386,7 +3386,7 @@
         "station_type": "classic"
       },
       {
-        "capacity": 11,
+        "capacity": 8,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -6602,12 +6602,12 @@
         "station_type": "classic"
       },
       {
-        "capacity": 0,
+        "capacity": 3,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
         "external_id": "8e8eb1c3-1792-46e7-9c03-eb60e4271a52",
-        "has_kiosk": false,
+        "has_kiosk": true,
         "lat": 37.7974387,
         "legacy_id": "584",
         "lon": -122.4339891,
@@ -11930,6 +11930,6 @@
       }
     ]
   },
-  "last_updated": 1663629203,
+  "last_updated": 1663630317,
   "ttl": 5
 }
