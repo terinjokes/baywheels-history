@@ -6602,6 +6602,29 @@
         "station_type": "classic"
       },
       {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "8e8eb1c3-1792-46e7-9c03-eb60e4271a52",
+        "has_kiosk": false,
+        "lat": 37.7974387,
+        "legacy_id": "584",
+        "lon": -122.4339891,
+        "name": "Webster St at Union St",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "SF-C20-2",
+        "station_id": "584",
+        "station_type": "classic"
+      },
+      {
         "capacity": 27,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
@@ -11907,6 +11930,6 @@
       }
     ]
   },
-  "last_updated": 1663627903,
+  "last_updated": 1663628476,
   "ttl": 5
 }
