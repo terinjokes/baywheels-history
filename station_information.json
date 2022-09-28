@@ -9265,6 +9265,29 @@
         "station_type": "classic"
       },
       {
+        "capacity": 4,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "c77092b2-476f-498f-8a15-18c9ee51e920",
+        "has_kiosk": false,
+        "lat": 37.77066919835556,
+        "legacy_id": "367",
+        "lon": -122.47940702369306,
+        "name": "Hardly Strictly Bluegrass(Temporary Station)",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "SpecialEventTempStation",
+        "station_id": "367",
+        "station_type": "classic"
+      },
+      {
         "capacity": 3,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
@@ -11930,6 +11953,6 @@
       }
     ]
   },
-  "last_updated": 1664380566,
+  "last_updated": 1664381428,
   "ttl": 5
 }
