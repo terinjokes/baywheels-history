@@ -4136,9 +4136,9 @@
         "electric_bike_surcharge_waiver": false,
         "external_id": "5f90cd60-c199-4919-a20c-a2e417627b9d",
         "has_kiosk": true,
-        "lat": 37.77588,
+        "lat": 37.775986,
         "legacy_id": "81",
-        "lon": -122.39317,
+        "lon": -122.393038,
         "name": "Berry St at 4th St",
         "region_id": "3",
         "rental_methods": [
@@ -9265,7 +9265,7 @@
         "station_type": "classic"
       },
       {
-        "capacity": 0,
+        "capacity": 3,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -11953,6 +11953,6 @@
       }
     ]
   },
-  "last_updated": 1664386101,
+  "last_updated": 1664387441,
   "ttl": 5
 }
