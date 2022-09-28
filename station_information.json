@@ -776,9 +776,9 @@
         "electric_bike_surcharge_waiver": false,
         "external_id": "1716540857410079456",
         "has_kiosk": true,
-        "lat": 37.77447910353,
+        "lat": 37.7744791,
         "legacy_id": "1716540857410079456",
-        "lon": -122.41391425,
+        "lon": -122.4139142,
         "name": "Howard St at Grace St",
         "region_id": "0",
         "rental_methods": [
@@ -11953,6 +11953,6 @@
       }
     ]
   },
-  "last_updated": 1664387441,
+  "last_updated": 1664388325,
   "ttl": 5
 }
