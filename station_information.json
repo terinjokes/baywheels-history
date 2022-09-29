@@ -794,6 +794,30 @@
         "station_type": "classic"
       },
       {
+        "capacity": 12,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1726583666966036952",
+        "has_kiosk": true,
+        "lat": 37.775904,
+        "legacy_id": "1726583666966036952",
+        "lon": -122.39314,
+        "name": "Berry St at 4th St Station 2",
+        "region_id": "0",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "SF-K29-1B",
+        "station_id": "1726583666966036952",
+        "station_type": "classic"
+      },
+      {
         "capacity": 23,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
@@ -11953,6 +11977,6 @@
       }
     ]
   },
-  "last_updated": 1664477467,
+  "last_updated": 1664478275,
   "ttl": 5
 }
