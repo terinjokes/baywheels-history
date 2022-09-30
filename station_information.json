@@ -9298,7 +9298,7 @@
         "lat": 37.77066919835556,
         "legacy_id": "367",
         "lon": -122.47940702369306,
-        "name": "Hardly Strictly Bluegrass(Temporary Station)",
+        "name": "Hardly Strictly Bluegrass",
         "rental_methods": [
           "KEY",
           "CREDITCARD"
@@ -11977,6 +11977,6 @@
       }
     ]
   },
-  "last_updated": 1664567468,
+  "last_updated": 1664568075,
   "ttl": 5
 }
