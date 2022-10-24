@@ -780,7 +780,6 @@
         "legacy_id": "1716540857410079456",
         "lon": -122.4139142,
         "name": "Howard St at Grace St",
-        "region_id": "0",
         "rental_methods": [
           "KEY",
           "CREDITCARD"
@@ -804,7 +803,6 @@
         "legacy_id": "1726583666966036952",
         "lon": -122.39314,
         "name": "Berry St at 4th St Station 2",
-        "region_id": "0",
         "rental_methods": [
           "KEY",
           "CREDITCARD"
@@ -1308,7 +1306,6 @@
         "legacy_id": "544",
         "lon": -122.427457,
         "name": "Allyne Park (Green St at Gough St)",
-        "region_id": "0",
         "rental_methods": [
           "KEY",
           "CREDITCARD"
@@ -1740,7 +1737,6 @@
         "legacy_id": "548",
         "lon": -122.411536,
         "name": "North Point St at Powell St",
-        "region_id": "0",
         "rental_methods": [
           "KEY",
           "CREDITCARD"
@@ -2172,7 +2168,6 @@
         "legacy_id": "35e3bf9b-4c65-4f2b-9d46-32afe9fe82d9",
         "lon": -122.455079,
         "name": "Mason St at Halleck St",
-        "region_id": "0",
         "rental_methods": [
           "KEY",
           "CREDITCARD"
@@ -2244,7 +2239,6 @@
         "legacy_id": "571",
         "lon": -122.47949242628238,
         "name": "Irving St at 21st Ave",
-        "region_id": "0",
         "rental_methods": [
           "KEY",
           "CREDITCARD"
@@ -2268,7 +2262,6 @@
         "legacy_id": "562",
         "lon": -122.40032913185132,
         "name": "8th St at Hooper St",
-        "region_id": "0",
         "rental_methods": [
           "KEY",
           "CREDITCARD"
@@ -2532,7 +2525,6 @@
         "legacy_id": "536",
         "lon": -122.437261,
         "name": "Fillmore St at Jefferson St",
-        "region_id": "0",
         "rental_methods": [
           "KEY",
           "CREDITCARD"
@@ -2700,7 +2692,6 @@
         "legacy_id": "574",
         "lon": -122.27292420364392,
         "name": "West St at Brockhurst St",
-        "region_id": "0",
         "rental_methods": [
           "KEY",
           "CREDITCARD"
@@ -2796,7 +2787,6 @@
         "legacy_id": "41b2200f-7915-410b-95c6-084bc4d3dee8",
         "lon": -122.44430475172521,
         "name": "Detroit St at Hearst Ave",
-        "region_id": "0",
         "rental_methods": [
           "KEY",
           "CREDITCARD"
@@ -3036,7 +3026,6 @@
         "legacy_id": "572",
         "lon": -122.47632622718811,
         "name": "Irving St at 18th Ave",
-        "region_id": "0",
         "rental_methods": [
           "KEY",
           "CREDITCARD"
@@ -3324,7 +3313,6 @@
         "legacy_id": "546",
         "lon": -122.26914636790752,
         "name": "13th St at Webster St",
-        "region_id": "0",
         "rental_methods": [
           "KEY",
           "CREDITCARD"
@@ -4284,7 +4272,6 @@
         "legacy_id": "60e50c5b-b924-4c2d-83bb-c8fe97e6c4c3",
         "lon": -122.40548387640955,
         "name": "Grant Ave at Sutter St",
-        "region_id": "0",
         "rental_methods": [
           "KEY",
           "CREDITCARD"
@@ -5148,7 +5135,6 @@
         "legacy_id": "568",
         "lon": -122.4354739,
         "name": "Alemany Blvd at Francis St",
-        "region_id": "0",
         "rental_methods": [
           "KEY",
           "CREDITCARD"
@@ -6060,7 +6046,6 @@
         "legacy_id": "82ad4cff-001f-49a8-88fa-a5a63d64b9a2",
         "lon": -122.44272915651891,
         "name": "Divisadero St at Lombard St",
-        "region_id": "0",
         "rental_methods": [
           "KEY",
           "CREDITCARD"
@@ -6132,7 +6117,6 @@
         "legacy_id": "840ab61e-f6aa-4174-9881-5d57201ce1b9",
         "lon": -122.3922550678253,
         "name": "Folsom St at Main St",
-        "region_id": "0",
         "rental_methods": [
           "KEY",
           "CREDITCARD"
@@ -10451,7 +10435,6 @@
         "legacy_id": "547",
         "lon": -122.40927904844284,
         "name": "North Point St at Grant Ave",
-        "region_id": "0",
         "rental_methods": [
           "KEY",
           "CREDITCARD"
@@ -10787,7 +10770,6 @@
         "legacy_id": "573",
         "lon": -122.48355373749291,
         "name": "25th Ave at Irving St",
-        "region_id": "0",
         "rental_methods": [
           "KEY",
           "CREDITCARD"
@@ -11507,7 +11489,6 @@
         "legacy_id": "f665c653-569b-4a5d-b80d-67f2e4191f77",
         "lon": -122.27718830108643,
         "name": "Brockhurst St at San Pablo Ave",
-        "region_id": "0",
         "rental_methods": [
           "KEY",
           "CREDITCARD"
@@ -11939,7 +11920,6 @@
         "legacy_id": "501",
         "lon": -122.4432384967804,
         "name": "Balboa Park (San Jose Ave at Sgt. John V. Young Ln)",
-        "region_id": "0",
         "rental_methods": [
           "KEY",
           "CREDITCARD"
@@ -11978,6 +11958,6 @@
       }
     ]
   },
-  "last_updated": 1666634862,
+  "last_updated": 1666635813,
   "ttl": 5
 }
