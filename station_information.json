@@ -2114,6 +2114,29 @@
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
+        "external_id": "34254a87-40e5-462a-804f-20dab65726e4",
+        "has_kiosk": true,
+        "lat": 37.7892792,
+        "legacy_id": "581",
+        "lon": -122.4450687,
+        "name": "Clay St at Lyon St",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "SF-F17-1",
+        "station_id": "581",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 23,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
         "external_id": "3437ead2-e5e0-4e1c-86cf-d925a96b2260",
         "has_kiosk": true,
         "lat": 37.7524278,
@@ -11958,6 +11981,6 @@
       }
     ]
   },
-  "last_updated": 1666809232,
+  "last_updated": 1666810013,
   "ttl": 5
 }
