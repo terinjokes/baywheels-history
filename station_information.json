@@ -2949,10 +2949,10 @@
         "electric_bike_surcharge_waiver": false,
         "external_id": "429a3ffa-e0df-4497-b6e9-91e3ccb12c1c",
         "has_kiosk": true,
-        "lat": 37.85737162269891,
+        "lat": 37.85760774739988,
         "legacy_id": "268",
-        "lon": -122.26177096366881,
-        "name": "Russell St at Ellsworth St",
+        "lon": -122.26160466670989,
+        "name": "Ellsworth St at Russell St",
         "region_id": "14",
         "rental_methods": [
           "KEY",
@@ -11981,6 +11981,6 @@
       }
     ]
   },
-  "last_updated": 1667283111,
+  "last_updated": 1667284066,
   "ttl": 5
 }
