@@ -942,9 +942,9 @@
         "electric_bike_surcharge_waiver": false,
         "external_id": "1a7a0757-fbbb-497e-b92b-cb0817cab274",
         "has_kiosk": true,
-        "lat": 37.74197831512656,
+        "lat": 37.742075235944235,
         "legacy_id": "509",
-        "lon": -122.38689199090005,
+        "lon": -122.38660231232642,
         "name": "Evans Ave at Newhall St",
         "region_id": "3",
         "rental_methods": [
@@ -11981,6 +11981,6 @@
       }
     ]
   },
-  "last_updated": 1667516286,
+  "last_updated": 1667517131,
   "ttl": 5
 }
