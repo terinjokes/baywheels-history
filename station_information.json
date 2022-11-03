@@ -2121,8 +2121,8 @@
         "lon": -122.4450687,
         "name": "Clay St at Lyon St",
         "rental_methods": [
-          "KEY",
-          "CREDITCARD"
+          "CREDITCARD",
+          "KEY"
         ],
         "rental_uris": {
           "android": "https://sfo.lft.to/lastmile_qr_scan",
@@ -6668,8 +6668,8 @@
         "lon": -122.4339891,
         "name": "Webster St at Union St",
         "rental_methods": [
-          "KEY",
-          "CREDITCARD"
+          "CREDITCARD",
+          "KEY"
         ],
         "rental_uris": {
           "android": "https://sfo.lft.to/lastmile_qr_scan",
@@ -7928,7 +7928,7 @@
         "station_type": "classic"
       },
       {
-        "capacity": 7,
+        "capacity": 15,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -11981,6 +11981,6 @@
       }
     ]
   },
-  "last_updated": 1667478311,
+  "last_updated": 1667479616,
   "ttl": 5
 }
