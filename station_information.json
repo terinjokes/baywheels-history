@@ -2121,8 +2121,8 @@
         "lon": -122.4450687,
         "name": "Clay St at Lyon St",
         "rental_methods": [
-          "CREDITCARD",
-          "KEY"
+          "KEY",
+          "CREDITCARD"
         ],
         "rental_uris": {
           "android": "https://sfo.lft.to/lastmile_qr_scan",
@@ -6668,8 +6668,8 @@
         "lon": -122.4339891,
         "name": "Webster St at Union St",
         "rental_methods": [
-          "CREDITCARD",
-          "KEY"
+          "KEY",
+          "CREDITCARD"
         ],
         "rental_uris": {
           "android": "https://sfo.lft.to/lastmile_qr_scan",
@@ -11981,6 +11981,6 @@
       }
     ]
   },
-  "last_updated": 1667845846,
+  "last_updated": 1667846561,
   "ttl": 5
 }
