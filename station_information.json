@@ -6776,7 +6776,7 @@
         "station_type": "classic"
       },
       {
-        "capacity": 23,
+        "capacity": 24,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -11412,10 +11412,10 @@
         "electric_bike_surcharge_waiver": false,
         "external_id": "f3e171b4-04b0-418f-9d82-e62f4df245d8",
         "has_kiosk": true,
-        "lat": 37.7671004,
+        "lat": 37.7688065330825,
         "legacy_id": "100",
-        "lon": -122.410662,
-        "name": "Bryant St at 15th St",
+        "lon": -122.41349816322328,
+        "name": "Harrison St at 14th St",
         "region_id": "3",
         "rental_methods": [
           "KEY",
@@ -11425,7 +11425,7 @@
           "android": "https://sfo.lft.to/lastmile_qr_scan",
           "ios": "https://sfo.lft.to/lastmile_qr_scan"
         },
-        "short_name": "SF-M25",
+        "short_name": "SF-L24-2",
         "station_id": "f3e171b4-04b0-418f-9d82-e62f4df245d8",
         "station_type": "classic"
       },
@@ -11981,6 +11981,6 @@
       }
     ]
   },
-  "last_updated": 1668112490,
+  "last_updated": 1668113126,
   "ttl": 5
 }
