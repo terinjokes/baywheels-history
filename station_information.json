@@ -674,6 +674,3640 @@
         "station_type": "classic"
       },
       {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397486706881358",
+        "has_kiosk": true,
+        "lat": 37.737265,
+        "legacy_id": "1452397486706881358",
+        "lon": -122.421094,
+        "name": "Bernal Hts - Point 1 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Bernal Hts - Point 1 ",
+        "station_id": "1452397486706881358",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397486706881364",
+        "has_kiosk": true,
+        "lat": 37.73483,
+        "legacy_id": "1452397486706881364",
+        "lon": -122.415568,
+        "name": "Bernal Hts - Point 2 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Bernal Hts - Point 2 ",
+        "station_id": "1452397486706881364",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397491001848664",
+        "has_kiosk": true,
+        "lat": 37.738196,
+        "legacy_id": "1452397491001848664",
+        "lon": -122.410935,
+        "name": "Bernal Hts - Point 3 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Bernal Hts - Point 3 ",
+        "station_id": "1452397491001848664",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397491001848668",
+        "has_kiosk": true,
+        "lat": 37.733577,
+        "legacy_id": "1452397491001848668",
+        "lon": -122.424357,
+        "name": "Bernal Hts - Point 4 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Bernal Hts - Point 4 ",
+        "station_id": "1452397491001848668",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397495296815968",
+        "has_kiosk": true,
+        "lat": 37.733688,
+        "legacy_id": "1452397495296815968",
+        "lon": -122.423124,
+        "name": "Bernal Hts - Point 5 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Bernal Hts - Point 5 ",
+        "station_id": "1452397495296815968",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397495296815972",
+        "has_kiosk": true,
+        "lat": 37.733574,
+        "legacy_id": "1452397495296815972",
+        "lon": -122.42372,
+        "name": "Bernal Hts - Point 6 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Bernal Hts - Point 6 ",
+        "station_id": "1452397495296815972",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397499591783272",
+        "has_kiosk": true,
+        "lat": 37.738886,
+        "legacy_id": "1452397499591783272",
+        "lon": -122.414572,
+        "name": "Bernal Hts - Point 7 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Bernal Hts - Point 7 ",
+        "station_id": "1452397499591783272",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397499591783276",
+        "has_kiosk": true,
+        "lat": 37.739126,
+        "legacy_id": "1452397499591783276",
+        "lon": -122.417152,
+        "name": "Bernal Hts - Point 8",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Bernal Hts - Point 8",
+        "station_id": "1452397499591783276",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397503886750576",
+        "has_kiosk": true,
+        "lat": 37.739538,
+        "legacy_id": "1452397503886750576",
+        "lon": -122.419179,
+        "name": "Bernal Hts - Point 9 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Bernal Hts - Point 9 ",
+        "station_id": "1452397503886750576",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397503886750578",
+        "has_kiosk": true,
+        "lat": 37.741389,
+        "legacy_id": "1452397503886750578",
+        "lon": -122.410789,
+        "name": "Bernal Hts - Point 10 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Bernal Hts - Point 10 ",
+        "station_id": "1452397503886750578",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397508181717876",
+        "has_kiosk": true,
+        "lat": 37.744554,
+        "legacy_id": "1452397508181717876",
+        "lon": -122.407045,
+        "name": "Bernal Hts - Point 11 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Bernal Hts - Point 11 ",
+        "station_id": "1452397508181717876",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397508181717880",
+        "has_kiosk": true,
+        "lat": 37.761799,
+        "legacy_id": "1452397508181717880",
+        "lon": -122.446731,
+        "name": "Castro/Upper Market - Point 1 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Castro/Upper Market - Point 1 ",
+        "station_id": "1452397508181717880",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397512476685178",
+        "has_kiosk": true,
+        "lat": 37.762173,
+        "legacy_id": "1452397512476685178",
+        "lon": -122.440169,
+        "name": "Castro/Upper Market - Point 2 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Castro/Upper Market - Point 2 ",
+        "station_id": "1452397512476685178",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397512476685180",
+        "has_kiosk": true,
+        "lat": 37.7144289,
+        "legacy_id": "1452397512476685180",
+        "lon": -122.437224,
+        "name": "Crocker Amazon - Point 1",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Crocker Amazon - Point 1",
+        "station_id": "1452397512476685180",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397516771652478",
+        "has_kiosk": true,
+        "lat": 37.71278343,
+        "legacy_id": "1452397516771652478",
+        "lon": -122.4445711,
+        "name": "Crocker Amazon - Point 2",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Crocker Amazon - Point 2",
+        "station_id": "1452397516771652478",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397516771652480",
+        "has_kiosk": true,
+        "lat": 37.745232,
+        "legacy_id": "1452397516771652480",
+        "lon": -122.38727,
+        "name": "E Bayview - Point 1 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "E Bayview - Point 1 ",
+        "station_id": "1452397516771652480",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397521066619778",
+        "has_kiosk": true,
+        "lat": 37.743757,
+        "legacy_id": "1452397521066619778",
+        "lon": -122.383315,
+        "name": "E Bayview - Point 2 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "E Bayview - Point 2 ",
+        "station_id": "1452397521066619778",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397521066619782",
+        "has_kiosk": true,
+        "lat": 37.7402736,
+        "legacy_id": "1452397521066619782",
+        "lon": -122.3889652,
+        "name": "E Bayview - Point 3 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "E Bayview - Point 3 ",
+        "station_id": "1452397521066619782",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397525361587080",
+        "has_kiosk": true,
+        "lat": 37.738646,
+        "legacy_id": "1452397525361587080",
+        "lon": -122.3810338,
+        "name": "E Bayview - Point 4 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "E Bayview - Point 4 ",
+        "station_id": "1452397525361587080",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397525361587084",
+        "has_kiosk": true,
+        "lat": 37.730417,
+        "legacy_id": "1452397525361587084",
+        "lon": -122.372864,
+        "name": "E Bayview - Point 5 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "E Bayview - Point 5 ",
+        "station_id": "1452397525361587084",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397529656554382",
+        "has_kiosk": true,
+        "lat": 37.7269321,
+        "legacy_id": "1452397529656554382",
+        "lon": -122.3916115,
+        "name": "E Bayview - Point 6 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "E Bayview - Point 6 ",
+        "station_id": "1452397529656554382",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397529656554386",
+        "has_kiosk": true,
+        "lat": 37.7300739,
+        "legacy_id": "1452397529656554386",
+        "lon": -122.3767836,
+        "name": "E Bayview - Point 7 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "E Bayview - Point 7 ",
+        "station_id": "1452397529656554386",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397533951521686",
+        "has_kiosk": true,
+        "lat": 37.7324714,
+        "legacy_id": "1452397533951521686",
+        "lon": -122.3838539,
+        "name": "E Bayview - Point 8 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "E Bayview - Point 8 ",
+        "station_id": "1452397533951521686",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397533951521690",
+        "has_kiosk": true,
+        "lat": 37.732577,
+        "legacy_id": "1452397533951521690",
+        "lon": -122.3767024,
+        "name": "E Bayview - Point 9 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "E Bayview - Point 9 ",
+        "station_id": "1452397533951521690",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397538246488990",
+        "has_kiosk": true,
+        "lat": 37.7350079,
+        "legacy_id": "1452397538246488990",
+        "lon": -122.3831792,
+        "name": "E Bayview - Point 10 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "E Bayview - Point 10 ",
+        "station_id": "1452397538246488990",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397538246488992",
+        "has_kiosk": true,
+        "lat": 37.7200558,
+        "legacy_id": "1452397538246488992",
+        "lon": -122.3963389,
+        "name": "E Bayview - Point 11 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "E Bayview - Point 11 ",
+        "station_id": "1452397538246488992",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397542541456292",
+        "has_kiosk": true,
+        "lat": 37.7314168,
+        "legacy_id": "1452397542541456292",
+        "lon": -122.408832,
+        "name": "E Excelsior - Point 1 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "E Excelsior - Point 1 ",
+        "station_id": "1452397542541456292",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397542541456294",
+        "has_kiosk": true,
+        "lat": 37.7334783,
+        "legacy_id": "1452397542541456294",
+        "lon": -122.4074626,
+        "name": "E Excelsior - Point 2 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "E Excelsior - Point 2 ",
+        "station_id": "1452397542541456294",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397546836423594",
+        "has_kiosk": true,
+        "lat": 37.7289258,
+        "legacy_id": "1452397546836423594",
+        "lon": -122.4037856,
+        "name": "E Excelsior - Point 3 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "E Excelsior - Point 3 ",
+        "station_id": "1452397546836423594",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397572606227372",
+        "has_kiosk": true,
+        "lat": 37.76103951,
+        "legacy_id": "1452397572606227372",
+        "lon": -122.4919975,
+        "name": "E Outer Sunset - Point 1 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "E Outer Sunset - Point 1 ",
+        "station_id": "1452397572606227372",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397572606227376",
+        "has_kiosk": true,
+        "lat": 37.7485509,
+        "legacy_id": "1452397572606227376",
+        "lon": -122.4782242,
+        "name": "E Outer Sunset - Point 2 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "E Outer Sunset - Point 2 ",
+        "station_id": "1452397572606227376",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397576901194676",
+        "has_kiosk": true,
+        "lat": 37.76113404,
+        "legacy_id": "1452397576901194676",
+        "lon": -122.4898533,
+        "name": "E Outer Sunset - Point 3 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "E Outer Sunset - Point 3 ",
+        "station_id": "1452397576901194676",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397576901194678",
+        "has_kiosk": true,
+        "lat": 37.75414577,
+        "legacy_id": "1452397576901194678",
+        "lon": -122.4786157,
+        "name": "E Outer Sunset - Point 4 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "E Outer Sunset - Point 4 ",
+        "station_id": "1452397576901194678",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397581196161976",
+        "has_kiosk": true,
+        "lat": 37.75424219,
+        "legacy_id": "1452397581196161976",
+        "lon": -122.4764235,
+        "name": "E Outer Sunset - Point 5 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "E Outer Sunset - Point 5 ",
+        "station_id": "1452397581196161976",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397581196161978",
+        "has_kiosk": true,
+        "lat": 37.75362671,
+        "legacy_id": "1452397581196161978",
+        "lon": -122.4904006,
+        "name": "E Outer Sunset - Point 6 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "E Outer Sunset - Point 6 ",
+        "station_id": "1452397581196161978",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397585491129278",
+        "has_kiosk": true,
+        "lat": 37.76346741,
+        "legacy_id": "1452397585491129278",
+        "lon": -122.4792665,
+        "name": "E Outer Sunset - Point 7",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "E Outer Sunset - Point 7",
+        "station_id": "1452397585491129278",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397585491129280",
+        "has_kiosk": true,
+        "lat": 37.75395724,
+        "legacy_id": "1452397585491129280",
+        "lon": -122.4828994,
+        "name": "E Outer Sunset - Point 8 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "E Outer Sunset - Point 8 ",
+        "station_id": "1452397585491129280",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397589786096578",
+        "has_kiosk": true,
+        "lat": 37.76327863,
+        "legacy_id": "1452397589786096578",
+        "lon": -122.4835536,
+        "name": "E Outer Sunset - Point 9",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "E Outer Sunset - Point 9",
+        "station_id": "1452397589786096578",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397589786096580",
+        "has_kiosk": true,
+        "lat": 37.76280601,
+        "legacy_id": "1452397589786096580",
+        "lon": -122.4942704,
+        "name": "E Outer Sunset - Point 10 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "E Outer Sunset - Point 10 ",
+        "station_id": "1452397589786096580",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397594081063880",
+        "has_kiosk": true,
+        "lat": 37.75754195,
+        "legacy_id": "1452397594081063880",
+        "lon": -122.4863819,
+        "name": "E Outer Sunset - Point 11 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "E Outer Sunset - Point 11 ",
+        "station_id": "1452397594081063880",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397594081063882",
+        "has_kiosk": true,
+        "lat": 37.7631841,
+        "legacy_id": "1452397594081063882",
+        "lon": -122.4856989,
+        "name": "E Outer Sunset - Point 12 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "E Outer Sunset - Point 12 ",
+        "station_id": "1452397594081063882",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397598376031180",
+        "has_kiosk": true,
+        "lat": 37.7537209,
+        "legacy_id": "1452397598376031180",
+        "lon": -122.4882641,
+        "name": "E Outer Sunset - Point 13 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "E Outer Sunset - Point 13 ",
+        "station_id": "1452397598376031180",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397598376031182",
+        "has_kiosk": true,
+        "lat": 37.7391358,
+        "legacy_id": "1452397598376031182",
+        "lon": -122.4797183,
+        "name": "E Parkside - Point 1 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "E Parkside - Point 1 ",
+        "station_id": "1452397598376031182",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397602670998482",
+        "has_kiosk": true,
+        "lat": 37.74309661,
+        "legacy_id": "1452397602670998482",
+        "lon": -122.4746238,
+        "name": "E Parkside - Point 2 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "E Parkside - Point 2 ",
+        "station_id": "1452397602670998482",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397602670998484",
+        "has_kiosk": true,
+        "lat": 37.74468118,
+        "legacy_id": "1452397602670998484",
+        "lon": -122.4811812,
+        "name": "E Parkside - Point 3 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "E Parkside - Point 3 ",
+        "station_id": "1452397602670998484",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397606965965784",
+        "has_kiosk": true,
+        "lat": 37.74243744,
+        "legacy_id": "1452397606965965784",
+        "lon": -122.4896202,
+        "name": "E Parkside - Point 4 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "E Parkside - Point 4 ",
+        "station_id": "1452397606965965784",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397606965965786",
+        "has_kiosk": true,
+        "lat": 37.74267311,
+        "legacy_id": "1452397606965965786",
+        "lon": -122.4842636,
+        "name": "E Parkside - Point 5 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "E Parkside - Point 5 ",
+        "station_id": "1452397606965965786",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397611260933086",
+        "has_kiosk": true,
+        "lat": 37.73941853,
+        "legacy_id": "1452397611260933086",
+        "lon": -122.4732923,
+        "name": "E Parkside - Point 6 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "E Parkside - Point 6 ",
+        "station_id": "1452397611260933086",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397615555900388",
+        "has_kiosk": true,
+        "lat": 37.7345202,
+        "legacy_id": "1452397615555900388",
+        "lon": -122.4329368,
+        "name": "Glen Park - Point 2",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Glen Park - Point 2",
+        "station_id": "1452397615555900388",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397619850867692",
+        "has_kiosk": true,
+        "lat": 37.769667,
+        "legacy_id": "1452397619850867692",
+        "lon": -122.449658,
+        "name": "Haight Ashbury - Point 2 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Haight Ashbury - Point 2 ",
+        "station_id": "1452397619850867692",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397619850867696",
+        "has_kiosk": true,
+        "lat": 37.7741327,
+        "legacy_id": "1452397619850867696",
+        "lon": -122.4735467,
+        "name": "Inner Richmond - Point 1 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Inner Richmond - Point 1 ",
+        "station_id": "1452397619850867696",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397628440802290",
+        "has_kiosk": true,
+        "lat": 37.776627,
+        "legacy_id": "1452397628440802290",
+        "lon": -122.477007,
+        "name": "Inner Richmond - Point 2 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Inner Richmond - Point 2 ",
+        "station_id": "1452397628440802290",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397632735769588",
+        "has_kiosk": true,
+        "lat": 37.7863111,
+        "legacy_id": "1452397632735769588",
+        "lon": -122.473273,
+        "name": "Inner Richmond - Point 3 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Inner Richmond - Point 3 ",
+        "station_id": "1452397632735769588",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397632735769590",
+        "has_kiosk": true,
+        "lat": 37.785111,
+        "legacy_id": "1452397632735769590",
+        "lon": -122.465704,
+        "name": "Inner Richmond - Point 4 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Inner Richmond - Point 4 ",
+        "station_id": "1452397632735769590",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397637030736888",
+        "has_kiosk": true,
+        "lat": 37.763614,
+        "legacy_id": "1452397637030736888",
+        "lon": -122.476068,
+        "name": "Inner Sunset - Point 1 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Inner Sunset - Point 1 ",
+        "station_id": "1452397637030736888",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397637030736892",
+        "has_kiosk": true,
+        "lat": 37.762133,
+        "legacy_id": "1452397637030736892",
+        "lon": -122.467266,
+        "name": "Inner Sunset - Point 2 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Inner Sunset - Point 2 ",
+        "station_id": "1452397637030736892",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397641325704190",
+        "has_kiosk": true,
+        "lat": 37.7221401,
+        "legacy_id": "1452397641325704190",
+        "lon": -122.4824791,
+        "name": "Lakeshore - Point 1 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Lakeshore - Point 1 ",
+        "station_id": "1452397641325704190",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397641325704194",
+        "has_kiosk": true,
+        "lat": 37.72629789,
+        "legacy_id": "1452397641325704194",
+        "lon": -122.4824479,
+        "name": "Lakeshore - Point 2 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Lakeshore - Point 2 ",
+        "station_id": "1452397641325704194",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397645620671492",
+        "has_kiosk": true,
+        "lat": 37.73166927,
+        "legacy_id": "1452397645620671492",
+        "lon": -122.473203,
+        "name": "Lakeshore - Point 3 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Lakeshore - Point 3 ",
+        "station_id": "1452397645620671492",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397645620671494",
+        "has_kiosk": true,
+        "lat": 37.73212,
+        "legacy_id": "1452397645620671494",
+        "lon": -122.4742063,
+        "name": "Lakeshore - Point 4 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Lakeshore - Point 4 ",
+        "station_id": "1452397645620671494",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397649915638792",
+        "has_kiosk": true,
+        "lat": 37.796997,
+        "legacy_id": "1452397649915638792",
+        "lon": -122.428739,
+        "name": "Marina - Point 1 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Marina - Point 1 ",
+        "station_id": "1452397649915638792",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397649915638794",
+        "has_kiosk": true,
+        "lat": 37.798538,
+        "legacy_id": "1452397649915638794",
+        "lon": -122.439169,
+        "name": "Marina - Point 2 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Marina - Point 2 ",
+        "station_id": "1452397649915638794",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397654210606096",
+        "has_kiosk": true,
+        "lat": 37.800195,
+        "legacy_id": "1452397654210606096",
+        "lon": -122.441191,
+        "name": "Marina - Point 3 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Marina - Point 3 ",
+        "station_id": "1452397654210606096",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397654210606100",
+        "has_kiosk": true,
+        "lat": 37.805855,
+        "legacy_id": "1452397654210606100",
+        "lon": -122.442278,
+        "name": "Marina - Point 4 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Marina - Point 4 ",
+        "station_id": "1452397654210606100",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397658505573400",
+        "has_kiosk": true,
+        "lat": 37.805162,
+        "legacy_id": "1452397658505573400",
+        "lon": -122.44732,
+        "name": "Marina - Point 5 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Marina - Point 5 ",
+        "station_id": "1452397658505573400",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397662800540704",
+        "has_kiosk": true,
+        "lat": 37.728164,
+        "legacy_id": "1452397662800540704",
+        "lon": -122.440627,
+        "name": "N Outer Mission - Point 2 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "N Outer Mission - Point 2 ",
+        "station_id": "1452397662800540704",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397662800540706",
+        "has_kiosk": true,
+        "lat": 37.7218096,
+        "legacy_id": "1452397662800540706",
+        "lon": -122.4389891,
+        "name": "N Outer Mission - Point 3 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "N Outer Mission - Point 3 ",
+        "station_id": "1452397662800540706",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397667095508004",
+        "has_kiosk": true,
+        "lat": 37.7235333,
+        "legacy_id": "1452397667095508004",
+        "lon": -122.437177,
+        "name": "N Outer Mission - Point 4 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "N Outer Mission - Point 4 ",
+        "station_id": "1452397667095508004",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397667095508006",
+        "has_kiosk": true,
+        "lat": 37.7292364,
+        "legacy_id": "1452397667095508006",
+        "lon": -122.4338773,
+        "name": "N Outer Mission - Point 5 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "N Outer Mission - Point 5 ",
+        "station_id": "1452397667095508006",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397671390475304",
+        "has_kiosk": true,
+        "lat": 37.7172631,
+        "legacy_id": "1452397671390475304",
+        "lon": -122.4403909,
+        "name": "N Outer Mission - Point 6 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "N Outer Mission - Point 6 ",
+        "station_id": "1452397671390475304",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397671390475310",
+        "has_kiosk": true,
+        "lat": 37.731526,
+        "legacy_id": "1452397671390475310",
+        "lon": -122.444337,
+        "name": "N Outer Mission - Point 7 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "N Outer Mission - Point 7 ",
+        "station_id": "1452397671390475310",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397675685442608",
+        "has_kiosk": true,
+        "lat": 37.730713,
+        "legacy_id": "1452397675685442608",
+        "lon": -122.444312,
+        "name": "N Outer Mission - Point 8 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "N Outer Mission - Point 8 ",
+        "station_id": "1452397675685442608",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397675685442612",
+        "has_kiosk": true,
+        "lat": 37.794532,
+        "legacy_id": "1452397675685442612",
+        "lon": -122.411377,
+        "name": "Nob Hill - Point 1 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Nob Hill - Point 1 ",
+        "station_id": "1452397675685442612",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397679980409912",
+        "has_kiosk": true,
+        "lat": 37.791475,
+        "legacy_id": "1452397679980409912",
+        "lon": -122.414118,
+        "name": "Nob Hill - Point 3 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Nob Hill - Point 3 ",
+        "station_id": "1452397679980409912",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397684275377212",
+        "has_kiosk": true,
+        "lat": 37.751029,
+        "legacy_id": "1452397684275377212",
+        "lon": -122.438487,
+        "name": "Noe Valley - Point 1 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Noe Valley - Point 1 ",
+        "station_id": "1452397684275377212",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397684275377214",
+        "has_kiosk": true,
+        "lat": 37.744784,
+        "legacy_id": "1452397684275377214",
+        "lon": -122.435745,
+        "name": "Noe Valley - Point 2 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Noe Valley - Point 2 ",
+        "station_id": "1452397684275377214",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397688570344514",
+        "has_kiosk": true,
+        "lat": 37.754633,
+        "legacy_id": "1452397688570344514",
+        "lon": -122.432161,
+        "name": "Noe Valley - Point 3 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Noe Valley - Point 3 ",
+        "station_id": "1452397688570344514",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397688570344520",
+        "has_kiosk": true,
+        "lat": 37.7543,
+        "legacy_id": "1452397688570344520",
+        "lon": -122.437612,
+        "name": "Noe Valley - Point 4 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Noe Valley - Point 4 ",
+        "station_id": "1452397688570344520",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397692865311820",
+        "has_kiosk": true,
+        "lat": 37.749188,
+        "legacy_id": "1452397692865311820",
+        "lon": -122.442533,
+        "name": "Noe Valley - Point 5 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Noe Valley - Point 5 ",
+        "station_id": "1452397692865311820",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397692865311822",
+        "has_kiosk": true,
+        "lat": 37.8055229,
+        "legacy_id": "1452397692865311822",
+        "lon": -122.4070581,
+        "name": "North Beach - Point 1 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "North Beach - Point 1 ",
+        "station_id": "1452397692865311822",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397697160279120",
+        "has_kiosk": true,
+        "lat": 37.8056716,
+        "legacy_id": "1452397697160279120",
+        "lon": -122.4136412,
+        "name": "North Beach - Point 2 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "North Beach - Point 2 ",
+        "station_id": "1452397697160279120",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397701455246424",
+        "has_kiosk": true,
+        "lat": 37.72302108,
+        "legacy_id": "1452397701455246424",
+        "lon": -122.4622708,
+        "name": "Ocean View - Point 1",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Ocean View - Point 1",
+        "station_id": "1452397701455246424",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397701455246426",
+        "has_kiosk": true,
+        "lat": 37.71319356,
+        "legacy_id": "1452397701455246426",
+        "lon": -122.456053,
+        "name": "Ocean View - Point 2",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Ocean View - Point 2",
+        "station_id": "1452397701455246426",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397705750213724",
+        "has_kiosk": true,
+        "lat": 37.72345701,
+        "legacy_id": "1452397705750213724",
+        "lon": -122.4541158,
+        "name": "Ocean View - Point 3",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Ocean View - Point 3",
+        "station_id": "1452397705750213724",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397705750213728",
+        "has_kiosk": true,
+        "lat": 37.71496844,
+        "legacy_id": "1452397705750213728",
+        "lon": -122.4704718,
+        "name": "Ocean View - Point 4",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Ocean View - Point 4",
+        "station_id": "1452397705750213728",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397710045181028",
+        "has_kiosk": true,
+        "lat": 37.71402954,
+        "legacy_id": "1452397710045181028",
+        "lon": -122.4625887,
+        "name": "Ocean View - Point 5",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Ocean View - Point 5",
+        "station_id": "1452397710045181028",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397710045181030",
+        "has_kiosk": true,
+        "lat": 37.7799059,
+        "legacy_id": "1452397710045181030",
+        "lon": -122.4872839,
+        "name": "Outer Richmond - Point 1 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Outer Richmond - Point 1 ",
+        "station_id": "1452397710045181030",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397714340148328",
+        "has_kiosk": true,
+        "lat": 37.7832501,
+        "legacy_id": "1452397714340148328",
+        "lon": -122.4785303,
+        "name": "Outer Richmond - Point 2 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Outer Richmond - Point 2 ",
+        "station_id": "1452397714340148328",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397714340148332",
+        "has_kiosk": true,
+        "lat": 37.7839115,
+        "legacy_id": "1452397714340148332",
+        "lon": -122.4830899,
+        "name": "Outer Richmond - Point 3 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Outer Richmond - Point 3 ",
+        "station_id": "1452397714340148332",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397718635115634",
+        "has_kiosk": true,
+        "lat": 37.7839079,
+        "legacy_id": "1452397718635115634",
+        "lon": -122.4851707,
+        "name": "Outer Richmond - Point 4 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Outer Richmond - Point 4 ",
+        "station_id": "1452397718635115634",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397718635115636",
+        "has_kiosk": true,
+        "lat": 37.7796453,
+        "legacy_id": "1452397718635115636",
+        "lon": -122.503566,
+        "name": "Outer Richmond - Point 5 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Outer Richmond - Point 5 ",
+        "station_id": "1452397718635115636",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397722930082934",
+        "has_kiosk": true,
+        "lat": 37.7786204,
+        "legacy_id": "1452397722930082934",
+        "lon": -122.49755,
+        "name": "Outer Richmond - Point 6 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Outer Richmond - Point 6 ",
+        "station_id": "1452397722930082934",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397722930082938",
+        "has_kiosk": true,
+        "lat": 37.7748516,
+        "legacy_id": "1452397722930082938",
+        "lon": -122.5101437,
+        "name": "Outer Richmond - Point 7 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Outer Richmond - Point 7 ",
+        "station_id": "1452397722930082938",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397727225050236",
+        "has_kiosk": true,
+        "lat": 37.792972,
+        "legacy_id": "1452397727225050236",
+        "lon": -122.445178,
+        "name": "Pac Hts - Point 1 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Pac Hts - Point 1 ",
+        "station_id": "1452397727225050236",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397727225050240",
+        "has_kiosk": true,
+        "lat": 37.749751,
+        "legacy_id": "1452397727225050240",
+        "lon": -122.396287,
+        "name": "Potrero Hill - Point 1 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Potrero Hill - Point 1 ",
+        "station_id": "1452397727225050240",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397731520017538",
+        "has_kiosk": true,
+        "lat": 37.7599568,
+        "legacy_id": "1452397731520017538",
+        "lon": -122.3974019,
+        "name": "Potrero Hill - Point 2 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Potrero Hill - Point 2 ",
+        "station_id": "1452397731520017538",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397731520017542",
+        "has_kiosk": true,
+        "lat": 37.7506798,
+        "legacy_id": "1452397731520017542",
+        "lon": -122.4022267,
+        "name": "Potrero Hill - Point 3 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Potrero Hill - Point 3 ",
+        "station_id": "1452397731520017542",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397735814984840",
+        "has_kiosk": true,
+        "lat": 37.7558999,
+        "legacy_id": "1452397735814984840",
+        "lon": -122.3978891,
+        "name": "Potrero Hill - Point 4 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Potrero Hill - Point 4 ",
+        "station_id": "1452397735814984840",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397735814984844",
+        "has_kiosk": true,
+        "lat": 37.7576462,
+        "legacy_id": "1452397735814984844",
+        "lon": -122.3941539,
+        "name": "Potrero Hill - Point 5 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Potrero Hill - Point 5 ",
+        "station_id": "1452397735814984844",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397740109952142",
+        "has_kiosk": true,
+        "lat": 37.786918,
+        "legacy_id": "1452397740109952142",
+        "lon": -122.45929,
+        "name": "Presidio Hts - Point 1",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Presidio Hts - Point 1",
+        "station_id": "1452397740109952142",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397740109952146",
+        "has_kiosk": true,
+        "lat": 37.7836655,
+        "legacy_id": "1452397740109952146",
+        "lon": -122.452518,
+        "name": "Presidio Hts - Point 2",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Presidio Hts - Point 2",
+        "station_id": "1452397740109952146",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397744404919448",
+        "has_kiosk": true,
+        "lat": 37.788191,
+        "legacy_id": "1452397744404919448",
+        "lon": -122.446987,
+        "name": "Presidio Hts - Point 3",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Presidio Hts - Point 3",
+        "station_id": "1452397744404919448",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397744404919450",
+        "has_kiosk": true,
+        "lat": 37.8045132,
+        "legacy_id": "1452397744404919450",
+        "lon": -122.4218213,
+        "name": "Russian Hill - Point 1 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Russian Hill - Point 1 ",
+        "station_id": "1452397744404919450",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397748699886748",
+        "has_kiosk": true,
+        "lat": 37.754403,
+        "legacy_id": "1452397748699886748",
+        "lon": -122.409267,
+        "name": "S Mission - Point 1 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "S Mission - Point 1 ",
+        "station_id": "1452397748699886748",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397748699886752",
+        "has_kiosk": true,
+        "lat": 37.754737,
+        "legacy_id": "1452397748699886752",
+        "lon": -122.41219,
+        "name": "S Mission - Point 2 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "S Mission - Point 2 ",
+        "station_id": "1452397748699886752",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397752994854050",
+        "has_kiosk": true,
+        "lat": 37.71074852,
+        "legacy_id": "1452397752994854050",
+        "lon": -122.4476724,
+        "name": "S Outer Mission - Point 1 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "S Outer Mission - Point 1 ",
+        "station_id": "1452397752994854050",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397752994854052",
+        "has_kiosk": true,
+        "lat": 37.7806627,
+        "legacy_id": "1452397752994854052",
+        "lon": -122.5099942,
+        "name": "Seacliff - Point 1 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Seacliff - Point 1 ",
+        "station_id": "1452397752994854052",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397757289821352",
+        "has_kiosk": true,
+        "lat": 37.7114836,
+        "legacy_id": "1452397757289821352",
+        "lon": -122.404469,
+        "name": "Visitacion Valley - Point 1",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Visitacion Valley - Point 1",
+        "station_id": "1452397757289821352",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397757289821354",
+        "has_kiosk": true,
+        "lat": 37.7090854,
+        "legacy_id": "1452397757289821354",
+        "lon": -122.4058488,
+        "name": "Visitacion Valley - Point 2",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Visitacion Valley - Point 2",
+        "station_id": "1452397757289821354",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397761584788654",
+        "has_kiosk": true,
+        "lat": 37.7138121,
+        "legacy_id": "1452397761584788654",
+        "lon": -122.415185,
+        "name": "Visitacion Valley - Point 3",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Visitacion Valley - Point 3",
+        "station_id": "1452397761584788654",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397761584788656",
+        "has_kiosk": true,
+        "lat": 37.7117772,
+        "legacy_id": "1452397761584788656",
+        "lon": -122.4150513,
+        "name": "Visitacion Valley - Point 4 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Visitacion Valley - Point 4 ",
+        "station_id": "1452397761584788656",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397765879755956",
+        "has_kiosk": true,
+        "lat": 37.7126459,
+        "legacy_id": "1452397765879755956",
+        "lon": -122.4075805,
+        "name": "Visitacion Valley - Point 5 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Visitacion Valley - Point 5 ",
+        "station_id": "1452397765879755956",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397765879755960",
+        "has_kiosk": true,
+        "lat": 37.72279,
+        "legacy_id": "1452397765879755960",
+        "lon": -122.402032,
+        "name": "Visitacion Valley - Point 6 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Visitacion Valley - Point 6 ",
+        "station_id": "1452397765879755960",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397770174723260",
+        "has_kiosk": true,
+        "lat": 37.7166461,
+        "legacy_id": "1452397770174723260",
+        "lon": -122.3999158,
+        "name": "Visitacion Valley - Point 7 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Visitacion Valley - Point 7 ",
+        "station_id": "1452397770174723260",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397770174723264",
+        "has_kiosk": true,
+        "lat": 37.7213843,
+        "legacy_id": "1452397770174723264",
+        "lon": -122.4010538,
+        "name": "Visitacion Valley - Point 8 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Visitacion Valley - Point 8 ",
+        "station_id": "1452397770174723264",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397774469690564",
+        "has_kiosk": true,
+        "lat": 37.7120544,
+        "legacy_id": "1452397774469690564",
+        "lon": -122.4008536,
+        "name": "Visitacion Valley - Point 9 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Visitacion Valley - Point 9 ",
+        "station_id": "1452397774469690564",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397778764657864",
+        "has_kiosk": true,
+        "lat": 37.739675,
+        "legacy_id": "1452397778764657864",
+        "lon": -122.399123,
+        "name": "W Bayview - Point 1 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "W Bayview - Point 1 ",
+        "station_id": "1452397778764657864",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397778764657866",
+        "has_kiosk": true,
+        "lat": 37.733715,
+        "legacy_id": "1452397778764657866",
+        "lon": -122.403585,
+        "name": "W Bayview - Point 2 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "W Bayview - Point 2 ",
+        "station_id": "1452397778764657866",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397778764657868",
+        "has_kiosk": true,
+        "lat": 37.744171,
+        "legacy_id": "1452397778764657868",
+        "lon": -122.398775,
+        "name": "W Bayview - Point 3 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "W Bayview - Point 3 ",
+        "station_id": "1452397778764657868",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397783059625168",
+        "has_kiosk": true,
+        "lat": 37.746339,
+        "legacy_id": "1452397783059625168",
+        "lon": -122.402711,
+        "name": "W Bayview - Point 4 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "W Bayview - Point 4 ",
+        "station_id": "1452397783059625168",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397783059625172",
+        "has_kiosk": true,
+        "lat": 37.739239,
+        "legacy_id": "1452397783059625172",
+        "lon": -122.406941,
+        "name": "W Bayview - Point 5 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "W Bayview - Point 5 ",
+        "station_id": "1452397783059625172",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397787354592470",
+        "has_kiosk": true,
+        "lat": 37.736348,
+        "legacy_id": "1452397787354592470",
+        "lon": -122.406136,
+        "name": "W Bayview - Point 6 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "W Bayview - Point 6 ",
+        "station_id": "1452397787354592470",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397787354592474",
+        "has_kiosk": true,
+        "lat": 37.7374706,
+        "legacy_id": "1452397787354592474",
+        "lon": -122.3962686,
+        "name": "W Bayview - Point 7 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "W Bayview - Point 7 ",
+        "station_id": "1452397787354592474",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397791649559772",
+        "has_kiosk": true,
+        "lat": 37.7189734,
+        "legacy_id": "1452397791649559772",
+        "lon": -122.3977247,
+        "name": "W Bayview - Point 8 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "W Bayview - Point 8 ",
+        "station_id": "1452397791649559772",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397791649559774",
+        "has_kiosk": true,
+        "lat": 37.75655123,
+        "legacy_id": "1452397791649559774",
+        "lon": -122.5089025,
+        "name": "W Outer Sunset - Point 1 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "W Outer Sunset - Point 1 ",
+        "station_id": "1452397791649559774",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397795944527072",
+        "has_kiosk": true,
+        "lat": 37.75283023,
+        "legacy_id": "1452397795944527072",
+        "lon": -122.5084324,
+        "name": "W Outer Sunset - Point 2 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "W Outer Sunset - Point 2 ",
+        "station_id": "1452397795944527072",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397795944527074",
+        "has_kiosk": true,
+        "lat": 37.76051914,
+        "legacy_id": "1452397795944527074",
+        "lon": -122.5037855,
+        "name": "W Outer Sunset - Point 3",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "W Outer Sunset - Point 3",
+        "station_id": "1452397795944527074",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397800239494372",
+        "has_kiosk": true,
+        "lat": 37.75305886,
+        "legacy_id": "1452397800239494372",
+        "lon": -122.5032628,
+        "name": "W Outer Sunset - Point 4 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "W Outer Sunset - Point 4 ",
+        "station_id": "1452397800239494372",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397800239494374",
+        "has_kiosk": true,
+        "lat": 37.75296411,
+        "legacy_id": "1452397800239494374",
+        "lon": -122.5054058,
+        "name": "W Outer Sunset - Point 5 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "W Outer Sunset - Point 5 ",
+        "station_id": "1452397800239494374",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397804534461672",
+        "has_kiosk": true,
+        "lat": 37.76027169,
+        "legacy_id": "1452397804534461672",
+        "lon": -122.5093816,
+        "name": "W Outer Sunset - Point 6 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "W Outer Sunset - Point 6 ",
+        "station_id": "1452397804534461672",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397804534461678",
+        "has_kiosk": true,
+        "lat": 37.75142633,
+        "legacy_id": "1452397804534461678",
+        "lon": -122.4977704,
+        "name": "W Outer Sunset - Point 7 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "W Outer Sunset - Point 7 ",
+        "station_id": "1452397804534461678",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397808829428978",
+        "has_kiosk": true,
+        "lat": 37.74966208,
+        "legacy_id": "1452397808829428978",
+        "lon": -122.4955001,
+        "name": "W Outer Sunset - Point 8 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "W Outer Sunset - Point 8 ",
+        "station_id": "1452397808829428978",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397813124396278",
+        "has_kiosk": true,
+        "lat": 37.76252208,
+        "legacy_id": "1452397813124396278",
+        "lon": -122.5006982,
+        "name": "W Outer Sunset - Point 9 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "W Outer Sunset - Point 9 ",
+        "station_id": "1452397813124396278",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397813124396282",
+        "has_kiosk": true,
+        "lat": 37.76400083,
+        "legacy_id": "1452397813124396282",
+        "lon": -122.5103413,
+        "name": "W Outer Sunset - Point 10 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "W Outer Sunset - Point 10 ",
+        "station_id": "1452397813124396282",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397817419363580",
+        "has_kiosk": true,
+        "lat": 37.73833252,
+        "legacy_id": "1452397817419363580",
+        "lon": -122.4979282,
+        "name": "W Parkside - Point 1 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "W Parkside - Point 1 ",
+        "station_id": "1452397817419363580",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397817419363586",
+        "has_kiosk": true,
+        "lat": 37.74205568,
+        "legacy_id": "1452397817419363586",
+        "lon": -122.4981895,
+        "name": "W Parkside - Point 2 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "W Parkside - Point 2 ",
+        "station_id": "1452397817419363586",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397821714330884",
+        "has_kiosk": true,
+        "lat": 37.74171621,
+        "legacy_id": "1452397821714330884",
+        "lon": -122.505691,
+        "name": "W Parkside - Point 3 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "W Parkside - Point 3 ",
+        "station_id": "1452397821714330884",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397821714330886",
+        "has_kiosk": true,
+        "lat": 37.74200717,
+        "legacy_id": "1452397821714330886",
+        "lon": -122.4992621,
+        "name": "W Parkside - Point 4 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "W Parkside - Point 4 ",
+        "station_id": "1452397821714330886",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397826009298188",
+        "has_kiosk": true,
+        "lat": 37.74176468,
+        "legacy_id": "1452397826009298188",
+        "lon": -122.5046204,
+        "name": "W Parkside - Point 5 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "W Parkside - Point 5 ",
+        "station_id": "1452397826009298188",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397826009298192",
+        "has_kiosk": true,
+        "lat": 37.73546649,
+        "legacy_id": "1452397826009298192",
+        "lon": -122.5031048,
+        "name": "W Parkside - Point 6",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "W Parkside - Point 6",
+        "station_id": "1452397826009298192",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397830304265494",
+        "has_kiosk": true,
+        "lat": 37.73828555,
+        "legacy_id": "1452397830304265494",
+        "lon": -122.4990014,
+        "name": "W Parkside - Point 7 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "W Parkside - Point 7 ",
+        "station_id": "1452397830304265494",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397830304265498",
+        "has_kiosk": true,
+        "lat": 37.74517381,
+        "legacy_id": "1452397830304265498",
+        "lon": -122.4522689,
+        "name": "W Twin Peaks - Point 1 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "W Twin Peaks - Point 1 ",
+        "station_id": "1452397830304265498",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397834599232798",
+        "has_kiosk": true,
+        "lat": 37.72431754,
+        "legacy_id": "1452397834599232798",
+        "lon": -122.4581914,
+        "name": "W Twin Peaks - Point 2 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "W Twin Peaks - Point 2 ",
+        "station_id": "1452397834599232798",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397834599232802",
+        "has_kiosk": true,
+        "lat": 37.72548241,
+        "legacy_id": "1452397834599232802",
+        "lon": -122.4628155,
+        "name": "W Twin Peaks - Point 3 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "W Twin Peaks - Point 3 ",
+        "station_id": "1452397834599232802",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397838894200102",
+        "has_kiosk": true,
+        "lat": 37.73796988,
+        "legacy_id": "1452397838894200102",
+        "lon": -122.4690567,
+        "name": "W Twin Peaks - Point 4 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "W Twin Peaks - Point 4 ",
+        "station_id": "1452397838894200102",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397838894200104",
+        "has_kiosk": true,
+        "lat": 37.73667657,
+        "legacy_id": "1452397838894200104",
+        "lon": -122.4538019,
+        "name": "W Twin Peaks - Point 5 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "W Twin Peaks - Point 5 ",
+        "station_id": "1452397838894200104",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397843189167402",
+        "has_kiosk": true,
+        "lat": 37.74104356,
+        "legacy_id": "1452397843189167402",
+        "lon": -122.4661228,
+        "name": "W Twin Peaks - Point 6 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "W Twin Peaks - Point 6 ",
+        "station_id": "1452397843189167402",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397843189167404",
+        "has_kiosk": true,
+        "lat": 37.72367236,
+        "legacy_id": "1452397843189167404",
+        "lon": -122.4551357,
+        "name": "W Twin Peaks - Point 7 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "W Twin Peaks - Point 7 ",
+        "station_id": "1452397843189167404",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397847484134702",
+        "has_kiosk": true,
+        "lat": 37.74089198,
+        "legacy_id": "1452397847484134702",
+        "lon": -122.465829,
+        "name": "W Twin Peaks - Point 8 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "W Twin Peaks - Point 8 ",
+        "station_id": "1452397847484134702",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397847484134704",
+        "has_kiosk": true,
+        "lat": 37.784443,
+        "legacy_id": "1452397847484134704",
+        "lon": -122.44626,
+        "name": "Western Addition - Point 1 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Western Addition - Point 1 ",
+        "station_id": "1452397847484134704",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397851779102004",
+        "has_kiosk": true,
+        "lat": 37.787867,
+        "legacy_id": "1452397851779102004",
+        "lon": -122.426878,
+        "name": "Western Addition - Point 2 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Western Addition - Point 2 ",
+        "station_id": "1452397851779102004",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397851779102008",
+        "has_kiosk": true,
+        "lat": 37.787135,
+        "legacy_id": "1452397851779102008",
+        "lon": -122.42506,
+        "name": "Western Addition - Point 3 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Western Addition - Point 3 ",
+        "station_id": "1452397851779102008",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397856074069306",
+        "has_kiosk": true,
+        "lat": 37.788072,
+        "legacy_id": "1452397856074069306",
+        "lon": -122.440453,
+        "name": "Western Addition - Point 4 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Western Addition - Point 4 ",
+        "station_id": "1452397856074069306",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397856074069308",
+        "has_kiosk": true,
+        "lat": 37.74365863,
+        "legacy_id": "1452397856074069308",
+        "lon": -122.4647368,
+        "name": "X N Twin Peaks - Point 1 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "X N Twin Peaks - Point 1 ",
+        "station_id": "1452397856074069308",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397860369036606",
+        "has_kiosk": true,
+        "lat": 37.74728632,
+        "legacy_id": "1452397860369036606",
+        "lon": -122.4591744,
+        "name": "X N Twin Peaks - Point 2 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "X N Twin Peaks - Point 2 ",
+        "station_id": "1452397860369036606",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397860369036612",
+        "has_kiosk": true,
+        "lat": 37.74775232,
+        "legacy_id": "1452397860369036612",
+        "lon": -122.459972,
+        "name": "X N Twin Peaks - Point 3 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "X N Twin Peaks - Point 3 ",
+        "station_id": "1452397860369036612",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452397864664003912",
+        "has_kiosk": true,
+        "lat": 37.75727288,
+        "legacy_id": "1452397864664003912",
+        "lon": -122.4449643,
+        "name": "X Twin Peaks - Point 1 ",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "X Twin Peaks - Point 1 ",
+        "station_id": "1452397864664003912",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1452398019158644138",
+        "has_kiosk": true,
+        "lat": 37.738856,
+        "legacy_id": "1452398019158644138",
+        "lon": -122.434644,
+        "name": "Glen Park - Point 1",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "Glen Park - Point 1",
+        "station_id": "1452398019158644138",
+        "station_type": "classic"
+      },
+      {
         "capacity": 27,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
@@ -719,6 +4353,420 @@
         },
         "short_name": "SJ-M6-2",
         "station_id": "14f62ff9-1893-4379-8fe4-db578da909ee",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1525129228893294474",
+        "has_kiosk": true,
+        "lat": 37.79949571,
+        "legacy_id": "1525129228893294474",
+        "lon": -122.4596073,
+        "name": "X Presidio - Point 1",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "X Presidio - Point 1",
+        "station_id": "1525129228893294474",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1525129233188261776",
+        "has_kiosk": true,
+        "lat": 37.79835492,
+        "legacy_id": "1525129233188261776",
+        "lon": -122.4572503,
+        "name": "X Presidio - Point 2",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "X Presidio - Point 2",
+        "station_id": "1525129233188261776",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1525129233188261780",
+        "has_kiosk": true,
+        "lat": 37.79950871,
+        "legacy_id": "1525129233188261780",
+        "lon": -122.4563564,
+        "name": "X Presidio - Point 3",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "X Presidio - Point 3",
+        "station_id": "1525129233188261780",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1525129237483229078",
+        "has_kiosk": true,
+        "lat": 37.79998685,
+        "legacy_id": "1525129237483229078",
+        "lon": -122.4546881,
+        "name": "X Presidio - Point 4",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "X Presidio - Point 4",
+        "station_id": "1525129237483229078",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1525129237483229080",
+        "has_kiosk": true,
+        "lat": 37.80100032,
+        "legacy_id": "1525129237483229080",
+        "lon": -122.4562161,
+        "name": "X Presidio - Point 5",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "X Presidio - Point 5",
+        "station_id": "1525129237483229080",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1525129241778196378",
+        "has_kiosk": true,
+        "lat": 37.8006573,
+        "legacy_id": "1525129241778196378",
+        "lon": -122.4554365,
+        "name": "X Presidio - Point 6",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "X Presidio - Point 6",
+        "station_id": "1525129241778196378",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1525129246073163678",
+        "has_kiosk": true,
+        "lat": 37.80201898,
+        "legacy_id": "1525129246073163678",
+        "lon": -122.4575569,
+        "name": "X Presidio - Point 8",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "X Presidio - Point 8",
+        "station_id": "1525129246073163678",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1525129250368130980",
+        "has_kiosk": true,
+        "lat": 37.80520489,
+        "legacy_id": "1525129250368130980",
+        "lon": -122.4685699,
+        "name": "X Presidio - Point 10",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "X Presidio - Point 10",
+        "station_id": "1525129250368130980",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1525129250368130986",
+        "has_kiosk": true,
+        "lat": 37.80322994,
+        "legacy_id": "1525129250368130986",
+        "lon": -122.473341,
+        "name": "X Presidio - Point 11",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "X Presidio - Point 11",
+        "station_id": "1525129250368130986",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1525129254663098284",
+        "has_kiosk": true,
+        "lat": 37.80148366,
+        "legacy_id": "1525129254663098284",
+        "lon": -122.4735281,
+        "name": "X Presidio - Point 12",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "X Presidio - Point 12",
+        "station_id": "1525129254663098284",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1525129254663098288",
+        "has_kiosk": true,
+        "lat": 37.78836581,
+        "legacy_id": "1525129254663098288",
+        "lon": -122.4754407,
+        "name": "X Presidio - Point 13",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "X Presidio - Point 13",
+        "station_id": "1525129254663098288",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1525129258958065586",
+        "has_kiosk": true,
+        "lat": 37.79199349,
+        "legacy_id": "1525129258958065586",
+        "lon": -122.4800454,
+        "name": "X Presidio - Point 14",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "X Presidio - Point 14",
+        "station_id": "1525129258958065586",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1525129258958065588",
+        "has_kiosk": true,
+        "lat": 37.79816782,
+        "legacy_id": "1525129258958065588",
+        "lon": -122.4609663,
+        "name": "X Presidio - Point 15",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "X Presidio - Point 15",
+        "station_id": "1525129258958065588",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1525129263253032886",
+        "has_kiosk": true,
+        "lat": 37.80168635,
+        "legacy_id": "1525129263253032886",
+        "lon": -122.4663507,
+        "name": "X Presidio - Point 16",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "X Presidio - Point 16",
+        "station_id": "1525129263253032886",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1525129263253032890",
+        "has_kiosk": true,
+        "lat": 37.79564715,
+        "legacy_id": "1525129263253032890",
+        "lon": -122.4689597,
+        "name": "X Presidio - Point 17",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "X Presidio - Point 17",
+        "station_id": "1525129263253032890",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1525129267548000188",
+        "has_kiosk": true,
+        "lat": 37.79852643,
+        "legacy_id": "1525129267548000188",
+        "lon": -122.4499586,
+        "name": "X Presidio - Point 18",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "X Presidio - Point 18",
+        "station_id": "1525129267548000188",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1525129267548000190",
+        "has_kiosk": true,
+        "lat": 37.80171754,
+        "legacy_id": "1525129267548000190",
+        "lon": -122.4547089,
+        "name": "X Presidio - Point 19",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "X Presidio - Point 19",
+        "station_id": "1525129267548000190",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1525129271842967492",
+        "has_kiosk": true,
+        "lat": 37.79464668,
+        "legacy_id": "1525129271842967492",
+        "lon": -122.4749339,
+        "name": "X Presidio - Point 20",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "X Presidio - Point 20",
+        "station_id": "1525129271842967492",
         "station_type": "classic"
       },
       {
@@ -11981,6 +16029,6 @@
       }
     ]
   },
-  "last_updated": 1668063005,
+  "last_updated": 1668063517,
   "ttl": 5
 }
