@@ -338,7 +338,7 @@
         "station_type": "classic"
       },
       {
-        "capacity": 26,
+        "capacity": 27,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -4482,10 +4482,10 @@
         "electric_bike_surcharge_waiver": false,
         "external_id": "63758c7b-dfd9-4548-92a2-28fe8efb2faa",
         "has_kiosk": true,
-        "lat": 37.780819,
+        "lat": 37.77984799974718,
         "legacy_id": "383",
-        "lon": -122.4217875,
-        "name": "Golden Gate Ave at Franklin St",
+        "lon": -122.42249965667725,
+        "name": "Franklin St at McAllister St",
         "region_id": "3",
         "rental_methods": [
           "KEY",
@@ -11981,6 +11981,6 @@
       }
     ]
   },
-  "last_updated": 1668200615,
+  "last_updated": 1668201340,
   "ttl": 5
 }
