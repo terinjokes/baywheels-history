@@ -4485,7 +4485,7 @@
         "lat": 37.77984799974718,
         "legacy_id": "383",
         "lon": -122.42249965667725,
-        "name": "Franklin St at McAllister St",
+        "name": "McAllister St at Franklin St",
         "region_id": "3",
         "rental_methods": [
           "KEY",
@@ -11981,6 +11981,6 @@
       }
     ]
   },
-  "last_updated": 1668201340,
+  "last_updated": 1668202061,
   "ttl": 5
 }
