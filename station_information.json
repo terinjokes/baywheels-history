@@ -9176,6 +9176,29 @@
         "station_type": "classic"
       },
       {
+        "capacity": 2,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "c143f2f7-4071-44f3-97f8-6892c5f01e9f",
+        "has_kiosk": true,
+        "lat": 0,
+        "legacy_id": "585",
+        "lon": 0,
+        "name": "MTL-LAB-SF-ECO5-2",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "MTL-LAB-SF-ECO5-2",
+        "station_id": "585",
+        "station_type": "classic"
+      },
+      {
         "capacity": 31,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
@@ -11981,6 +12004,6 @@
       }
     ]
   },
-  "last_updated": 1668553119,
+  "last_updated": 1668553911,
   "ttl": 5
 }
