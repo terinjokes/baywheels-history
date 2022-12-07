@@ -1182,9 +1182,9 @@
         "electric_bike_surcharge_waiver": false,
         "external_id": "1eef0966-a6b6-4da1-8726-09989c2eb044",
         "has_kiosk": true,
-        "lat": 37.83563220458518,
+        "lat": 37.8356703,
         "legacy_id": "152",
-        "lon": -122.28105068206787,
+        "lon": -122.2811258,
         "name": "47th St at San Pablo Ave",
         "region_id": "13",
         "rental_methods": [
@@ -12004,6 +12004,6 @@
       }
     ]
   },
-  "last_updated": 1670443895,
+  "last_updated": 1670444645,
   "ttl": 5
 }
