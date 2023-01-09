@@ -4195,9 +4195,9 @@
         "electric_bike_surcharge_waiver": false,
         "external_id": "5f90cd60-c199-4919-a20c-a2e417627b9d",
         "has_kiosk": true,
-        "lat": 37.775986,
+        "lat": 37.77599270441184,
         "legacy_id": "81",
-        "lon": -122.393038,
+        "lon": -122.39300568626935,
         "name": "Berry St at 4th St",
         "region_id": "3",
         "rental_methods": [
@@ -12004,6 +12004,6 @@
       }
     ]
   },
-  "last_updated": 1673303206,
+  "last_updated": 1673303732,
   "ttl": 5
 }
