@@ -9229,9 +9229,9 @@
         "electric_bike_surcharge_waiver": false,
         "external_id": "c3f56bed-65e3-425b-999e-82b3a4f73aeb",
         "has_kiosk": true,
-        "lat": 37.8332786,
+        "lat": 37.833538871616035,
         "legacy_id": "158",
-        "lon": -122.2634901,
+        "lon": -122.263693665756,
         "name": "Shattuck Ave at Telegraph Ave",
         "region_id": "12",
         "rental_methods": [
@@ -12004,6 +12004,6 @@
       }
     ]
   },
-  "last_updated": 1673383762,
+  "last_updated": 1673384272,
   "ttl": 5
 }
