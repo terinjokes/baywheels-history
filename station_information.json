@@ -1712,7 +1712,7 @@
         "lat": 37.8036865,
         "legacy_id": "236",
         "lon": -122.282497,
-        "name": "Market St at 8th St",
+        "name": "10th St at Chestnut St",
         "region_id": "12",
         "rental_methods": [
           "KEY",
@@ -12004,6 +12004,6 @@
       }
     ]
   },
-  "last_updated": 1674655066,
+  "last_updated": 1674655886,
   "ttl": 5
 }
