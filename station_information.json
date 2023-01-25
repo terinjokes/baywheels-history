@@ -840,6 +840,29 @@
         "station_type": "classic"
       },
       {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1771130117010765886",
+        "has_kiosk": true,
+        "lat": 37.8063553,
+        "legacy_id": "1771130117010765886",
+        "lon": -122.2860187,
+        "name": "10th St at Chestnut St",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "OK-M3",
+        "station_id": "1771130117010765886",
+        "station_type": "classic"
+      },
+      {
         "capacity": 19,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
@@ -1712,7 +1735,7 @@
         "lat": 37.8036865,
         "legacy_id": "236",
         "lon": -122.282497,
-        "name": "10th St at Chestnut St",
+        "name": "Market St at 8th St",
         "region_id": "12",
         "rental_methods": [
           "KEY",
@@ -12004,6 +12027,6 @@
       }
     ]
   },
-  "last_updated": 1674677186,
+  "last_updated": 1674678007,
   "ttl": 5
 }
