@@ -4098,9 +4098,9 @@
         "electric_bike_surcharge_waiver": false,
         "external_id": "5a895f98-fd79-4db0-b19f-e2d312acf148",
         "has_kiosk": true,
-        "lat": 37.782497875963806,
+        "lat": 37.782589,
         "legacy_id": "489",
-        "lon": -122.47196763753891,
+        "lon": -122.4718603,
         "name": "Clement St at Funston Ave",
         "region_id": "3",
         "rental_methods": [
@@ -12027,6 +12027,6 @@
       }
     ]
   },
-  "last_updated": 1674764586,
+  "last_updated": 1674765106,
   "ttl": 5
 }
