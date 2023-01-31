@@ -863,7 +863,7 @@
         "station_type": "classic"
       },
       {
-        "capacity": 0,
+        "capacity": 1,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -5478,29 +5478,6 @@
         },
         "short_name": "SF-C28-2",
         "station_id": "75f6691a-df0a-4d7a-8b35-e5ffe33add4f",
-        "station_type": "classic"
-      },
-      {
-        "capacity": 0,
-        "eightd_has_key_dispenser": false,
-        "eightd_station_services": [],
-        "electric_bike_surcharge_waiver": false,
-        "external_id": "761ddf99-1511-422c-9bdd-be66c287df04",
-        "has_kiosk": false,
-        "lat": 37.754304683453356,
-        "legacy_id": "586",
-        "lon": -122.47859269380568,
-        "name": "21st Ave at Noriega St",
-        "rental_methods": [
-          "KEY",
-          "CREDITCARD"
-        ],
-        "rental_uris": {
-          "android": "https://sfo.lft.to/lastmile_qr_scan",
-          "ios": "https://sfo.lft.to/lastmile_qr_scan"
-        },
-        "short_name": "SF-P8",
-        "station_id": "586",
         "station_type": "classic"
       },
       {
@@ -12049,6 +12026,6 @@
       }
     ]
   },
-  "last_updated": 1675201331,
+  "last_updated": 1675201851,
   "ttl": 5
 }
