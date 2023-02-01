@@ -886,6 +886,29 @@
         "station_type": "classic"
       },
       {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1773477490441269908",
+        "has_kiosk": true,
+        "lat": 37.7540396,
+        "legacy_id": "1773477490441269908",
+        "lon": -122.4840403,
+        "name": "26th Ave at Noriega St",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "SF-P7",
+        "station_id": "1773477490441269908",
+        "station_type": "classic"
+      },
+      {
         "capacity": 19,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
@@ -7662,6 +7685,29 @@
         "station_type": "classic"
       },
       {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "a37e93cb-04f0-48b8-9abc-1bc5a7c0ce0c",
+        "has_kiosk": false,
+        "lat": 37.75403959906291,
+        "legacy_id": "587",
+        "lon": -122.48404026031496,
+        "name": "26th Ave at Noriega St",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "SF-P7",
+        "station_id": "587",
+        "station_type": "classic"
+      },
+      {
         "capacity": 23,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
@@ -12026,6 +12072,6 @@
       }
     ]
   },
-  "last_updated": 1675223701,
+  "last_updated": 1675224316,
   "ttl": 5
 }
