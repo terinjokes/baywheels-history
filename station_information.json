@@ -932,7 +932,7 @@
         "station_type": "classic"
       },
       {
-        "capacity": 0,
+        "capacity": 3,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -1479,29 +1479,6 @@
         },
         "short_name": "BK-H6",
         "station_id": "25e8f173-3c6f-43d5-9806-af1c72f6f3d8",
-        "station_type": "classic"
-      },
-      {
-        "capacity": 0,
-        "eightd_has_key_dispenser": false,
-        "eightd_station_services": [],
-        "electric_bike_surcharge_waiver": false,
-        "external_id": "2676f6a3-37cb-4d49-af2f-9d8bb4970e70",
-        "has_kiosk": false,
-        "lat": 37.76289933871384,
-        "legacy_id": "589",
-        "lon": -122.49538932021096,
-        "name": "36th Ave at Irving St",
-        "rental_methods": [
-          "KEY",
-          "CREDITCARD"
-        ],
-        "rental_uris": {
-          "android": "https://sfo.lft.to/lastmile_qr_scan",
-          "ios": "https://sfo.lft.to/lastmile_qr_scan"
-        },
-        "short_name": "SF-M4",
-        "station_id": "589",
         "station_type": "classic"
       },
       {
@@ -12095,6 +12072,6 @@
       }
     ]
   },
-  "last_updated": 1675465612,
+  "last_updated": 1675466386,
   "ttl": 5
 }
