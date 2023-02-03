@@ -650,29 +650,6 @@
         "station_type": "classic"
       },
       {
-        "capacity": 0,
-        "eightd_has_key_dispenser": false,
-        "eightd_station_services": [],
-        "electric_bike_surcharge_waiver": false,
-        "external_id": "13e74547-fc68-4b86-bde1-7817c8985fc7",
-        "has_kiosk": false,
-        "lat": 37.753929470975095,
-        "legacy_id": "588",
-        "lon": -122.48834379068285,
-        "name": "30th Ave at Noriega St",
-        "rental_methods": [
-          "KEY",
-          "CREDITCARD"
-        ],
-        "rental_uris": {
-          "android": "https://sfo.lft.to/lastmile_qr_scan",
-          "ios": "https://sfo.lft.to/lastmile_qr_scan"
-        },
-        "short_name": "SF-P6",
-        "station_id": "588",
-        "station_type": "classic"
-      },
-      {
         "capacity": 31,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
@@ -932,7 +909,7 @@
         "station_type": "classic"
       },
       {
-        "capacity": 0,
+        "capacity": 3,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -12118,6 +12095,6 @@
       }
     ]
   },
-  "last_updated": 1675459866,
+  "last_updated": 1675460372,
   "ttl": 5
 }
