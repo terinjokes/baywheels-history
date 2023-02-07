@@ -3303,9 +3303,9 @@
         "electric_bike_surcharge_waiver": false,
         "external_id": "47fcca45-c6c5-4665-9f34-8852ca3c3ae8",
         "has_kiosk": true,
-        "lat": 37.7520708,
+        "lat": 37.7522965,
         "legacy_id": "386",
-        "lon": -122.41997372800698,
+        "lon": -122.4196276,
         "name": "24th St at Bartlett St",
         "region_id": "3",
         "rental_methods": [
@@ -12072,6 +12072,6 @@
       }
     ]
   },
-  "last_updated": 1675795222,
+  "last_updated": 1675795731,
   "ttl": 5
 }
