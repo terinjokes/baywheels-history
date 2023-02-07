@@ -3306,7 +3306,7 @@
         "lat": 37.7522965,
         "legacy_id": "386",
         "lon": -122.4196276,
-        "name": "24th St at Bartlett St",
+        "name": "Bartlett St at 24th St",
         "region_id": "3",
         "rental_methods": [
           "KEY",
@@ -12072,6 +12072,6 @@
       }
     ]
   },
-  "last_updated": 1675799047,
+  "last_updated": 1675799656,
   "ttl": 5
 }
