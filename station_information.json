@@ -7154,7 +7154,7 @@
         "station_type": "classic"
       },
       {
-        "capacity": 14,
+        "capacity": 18,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -12095,6 +12095,6 @@
       }
     ]
   },
-  "last_updated": 1676308993,
+  "last_updated": 1676309532,
   "ttl": 5
 }
