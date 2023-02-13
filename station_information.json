@@ -637,8 +637,8 @@
         "lon": -122.49512912727367,
         "name": "36th Ave at Kirkham St",
         "rental_methods": [
-          "KEY",
-          "CREDITCARD"
+          "CREDITCARD",
+          "KEY"
         ],
         "rental_uris": {
           "android": "https://sfo.lft.to/lastmile_qr_scan",
@@ -12095,6 +12095,6 @@
       }
     ]
   },
-  "last_updated": 1676257857,
+  "last_updated": 1676258712,
   "ttl": 5
 }
