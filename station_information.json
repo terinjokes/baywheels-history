@@ -626,29 +626,6 @@
         "station_type": "classic"
       },
       {
-        "capacity": 0,
-        "eightd_has_key_dispenser": false,
-        "eightd_station_services": [],
-        "electric_bike_surcharge_waiver": false,
-        "external_id": "138ebef8-14bf-4b8a-8fb0-0f1ff5f577d1",
-        "has_kiosk": false,
-        "lat": 37.75890012389278,
-        "legacy_id": "590",
-        "lon": -122.49512912727367,
-        "name": "36th Ave at Kirkham St",
-        "rental_methods": [
-          "KEY",
-          "CREDITCARD"
-        ],
-        "rental_uris": {
-          "android": "https://sfo.lft.to/lastmile_qr_scan",
-          "ios": "https://sfo.lft.to/lastmile_qr_scan"
-        },
-        "short_name": "SF-N4",
-        "station_id": "590",
-        "station_type": "classic"
-      },
-      {
         "capacity": 23,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
@@ -955,7 +932,7 @@
         "station_type": "classic"
       },
       {
-        "capacity": 26,
+        "capacity": 23,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -12118,6 +12095,6 @@
       }
     ]
   },
-  "last_updated": 1676404691,
+  "last_updated": 1676405501,
   "ttl": 5
 }
