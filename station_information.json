@@ -982,6 +982,29 @@
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
+        "external_id": "1776724971264590054",
+        "has_kiosk": true,
+        "lat": 37.7626492,
+        "legacy_id": "1776724971264590054",
+        "lon": -122.5007785,
+        "name": "41st Ave at Irving St",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "SF-M3",
+        "station_id": "1776724971264590054",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 19,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
         "external_id": "180e4d99-3717-4b99-8200-671af652921f",
         "has_kiosk": true,
         "lat": 37.7719511,
@@ -12095,6 +12118,6 @@
       }
     ]
   },
-  "last_updated": 1676402643,
+  "last_updated": 1676403151,
   "ttl": 5
 }
