@@ -3184,7 +3184,7 @@
         "has_kiosk": true,
         "lat": 37.76349722249423,
         "legacy_id": "572",
-        "lon": -122.47632622718811,
+        "lon": -122.47632622718812,
         "name": "Irving St at 18th Ave",
         "rental_methods": [
           "KEY",
@@ -12118,6 +12118,6 @@
       }
     ]
   },
-  "last_updated": 1676568147,
+  "last_updated": 1676568682,
   "ttl": 5
 }
