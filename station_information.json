@@ -1024,6 +1024,29 @@
         "station_type": "classic"
       },
       {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1779288244570497764",
+        "has_kiosk": true,
+        "lat": 37.763874,
+        "legacy_id": "1779288244570497764",
+        "lon": -122.509526,
+        "name": "LaPlaya St at Lincoln Way",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "SF-M1",
+        "station_id": "1779288244570497764",
+        "station_type": "classic"
+      },
+      {
         "capacity": 19,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
@@ -10512,7 +10535,7 @@
         "station_type": "classic"
       },
       {
-        "capacity": 11,
+        "capacity": 10,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -12141,6 +12164,6 @@
       }
     ]
   },
-  "last_updated": 1676576467,
+  "last_updated": 1676576992,
   "ttl": 5
 }
