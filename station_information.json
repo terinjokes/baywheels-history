@@ -1001,7 +1001,7 @@
         "station_type": "classic"
       },
       {
-        "capacity": 27,
+        "capacity": 6,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -3222,7 +3222,7 @@
         "station_type": "classic"
       },
       {
-        "capacity": 27,
+        "capacity": 21,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -3233,8 +3233,8 @@
         "lon": -122.47632622718811,
         "name": "Irving St at 18th Ave",
         "rental_methods": [
-          "KEY",
-          "CREDITCARD"
+          "CREDITCARD",
+          "KEY"
         ],
         "rental_uris": {
           "android": "https://sfo.lft.to/lastmile_qr_scan",
@@ -12164,6 +12164,6 @@
       }
     ]
   },
-  "last_updated": 1676580072,
+  "last_updated": 1676580586,
   "ttl": 5
 }
