@@ -1001,6 +1001,29 @@
         "station_type": "classic"
       },
       {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1779268492015903100",
+        "has_kiosk": true,
+        "lat": 37.76349722249423,
+        "legacy_id": "1779268492015903100",
+        "lon": -122.47632622718811,
+        "name": "Irving St at 17th Ave",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "SF-M9-1",
+        "station_id": "1779268492015903100",
+        "station_type": "classic"
+      },
+      {
         "capacity": 19,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
@@ -12118,6 +12141,6 @@
       }
     ]
   },
-  "last_updated": 1676571646,
+  "last_updated": 1676572407,
   "ttl": 5
 }
