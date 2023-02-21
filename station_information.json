@@ -779,7 +779,7 @@
         "lat": 37.7744791,
         "legacy_id": "1716540857410079456",
         "lon": -122.4139142,
-        "name": "Howard St at Grace St",
+        "name": "Howard St at Grace St*",
         "rental_methods": [
           "KEY",
           "CREDITCARD"
@@ -802,7 +802,7 @@
         "lat": 37.775904,
         "legacy_id": "1726583666966036952",
         "lon": -122.39314,
-        "name": "Berry St at 4th St Station 2",
+        "name": "Berry St at 4th St Station 2*",
         "rental_methods": [
           "KEY",
           "CREDITCARD"
@@ -12187,6 +12187,6 @@
       }
     ]
   },
-  "last_updated": 1677018651,
+  "last_updated": 1677019197,
   "ttl": 5
 }
