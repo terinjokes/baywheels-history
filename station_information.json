@@ -1070,6 +1070,29 @@
         "station_type": "classic"
       },
       {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1781564836591126776",
+        "has_kiosk": true,
+        "lat": 37.752809,
+        "legacy_id": "1781564836591126776",
+        "lon": -122.504261,
+        "name": "45th Ave at Noriega St",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "SF-P2",
+        "station_id": "1781564836591126776",
+        "station_type": "classic"
+      },
+      {
         "capacity": 19,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
@@ -12187,6 +12210,6 @@
       }
     ]
   },
-  "last_updated": 1677106572,
+  "last_updated": 1677107211,
   "ttl": 5
 }
