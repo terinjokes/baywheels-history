@@ -1007,9 +1007,9 @@
         "electric_bike_surcharge_waiver": false,
         "external_id": "1779272240211880856",
         "has_kiosk": true,
-        "lat": 37.76373248226514,
+        "lat": 37.763721184118076,
         "legacy_id": "1779272240211880856",
-        "lon": -122.47522042021012,
+        "lon": -122.4753742486682,
         "name": "Irving St at 17th Ave",
         "rental_methods": [
           "KEY",
@@ -12233,6 +12233,6 @@
       }
     ]
   },
-  "last_updated": 1677765826,
+  "last_updated": 1677766513,
   "ttl": 5
 }
