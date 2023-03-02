@@ -1116,6 +1116,29 @@
         "station_type": "classic"
       },
       {
+        "capacity": 15,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1782266301159479792",
+        "has_kiosk": true,
+        "lat": 37.75699964338489,
+        "legacy_id": "1782266301159479792",
+        "lon": -122.50255097589334,
+        "name": "43rd Ave at Lawton St",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "SF-O2",
+        "station_id": "1782266301159479792",
+        "station_type": "classic"
+      },
+      {
         "capacity": 19,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
@@ -6549,7 +6572,7 @@
         "station_type": "classic"
       },
       {
-        "capacity": 22,
+        "capacity": 23,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -12233,6 +12256,6 @@
       }
     ]
   },
-  "last_updated": 1677780741,
+  "last_updated": 1677781652,
   "ttl": 5
 }
