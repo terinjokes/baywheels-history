@@ -3325,8 +3325,8 @@
         "lon": -122.47632622718811,
         "name": "Irving St at 18th Ave",
         "rental_methods": [
-          "KEY",
-          "CREDITCARD"
+          "CREDITCARD",
+          "KEY"
         ],
         "rental_uris": {
           "android": "https://sfo.lft.to/lastmile_qr_scan",
@@ -6369,8 +6369,8 @@
         "name": "Laguna St at Hayes St",
         "region_id": "3",
         "rental_methods": [
-          "KEY",
-          "CREDITCARD"
+          "CREDITCARD",
+          "KEY"
         ],
         "rental_uris": {
           "android": "https://sfo.lft.to/lastmile_qr_scan",
@@ -12256,6 +12256,6 @@
       }
     ]
   },
-  "last_updated": 1677837462,
+  "last_updated": 1677838307,
   "ttl": 5
 }
