@@ -1143,6 +1143,29 @@
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
+        "external_id": "1784515760723857816",
+        "has_kiosk": true,
+        "lat": 37.75300468614256,
+        "legacy_id": "1784515760723857816",
+        "lon": -122.5085402813285,
+        "name": "Lower Great Hwy at Noriega St",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "SF-P1",
+        "station_id": "1784515760723857816",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 19,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
         "external_id": "180e4d99-3717-4b99-8200-671af652921f",
         "has_kiosk": true,
         "lat": 37.7719511,
@@ -12256,6 +12279,6 @@
       }
     ]
   },
-  "last_updated": 1678214082,
+  "last_updated": 1678214673,
   "ttl": 5
 }
