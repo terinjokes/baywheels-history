@@ -1185,6 +1185,29 @@
         "station_type": "classic"
       },
       {
+        "capacity": 3,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1784517040624111938",
+        "has_kiosk": true,
+        "lat": 37.80445377683579,
+        "legacy_id": "1784517040624111938",
+        "lon": -122.41579377360823,
+        "name": "Francisco St at Columbus Ave",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "SF-A24-2",
+        "station_id": "1784517040624111938",
+        "station_type": "classic"
+      },
+      {
         "capacity": 19,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
@@ -12302,6 +12325,6 @@
       }
     ]
   },
-  "last_updated": 1678383706,
+  "last_updated": 1678384212,
   "ttl": 5
 }
