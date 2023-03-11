@@ -2715,7 +2715,7 @@
         "station_type": "classic"
       },
       {
-        "capacity": 27,
+        "capacity": 26,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -3371,8 +3371,8 @@
         "lon": -122.47632622718811,
         "name": "Irving St at 18th Ave",
         "rental_methods": [
-          "KEY",
-          "CREDITCARD"
+          "CREDITCARD",
+          "KEY"
         ],
         "rental_uris": {
           "android": "https://sfo.lft.to/lastmile_qr_scan",
@@ -6415,8 +6415,8 @@
         "name": "Laguna St at Hayes St",
         "region_id": "3",
         "rental_methods": [
-          "KEY",
-          "CREDITCARD"
+          "CREDITCARD",
+          "KEY"
         ],
         "rental_uris": {
           "android": "https://sfo.lft.to/lastmile_qr_scan",
@@ -12302,6 +12302,6 @@
       }
     ]
   },
-  "last_updated": 1678547963,
+  "last_updated": 1678548497,
   "ttl": 5
 }
