@@ -1185,6 +1185,29 @@
         "station_type": "classic"
       },
       {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1788900668107346898",
+        "has_kiosk": true,
+        "lat": 37.740184,
+        "legacy_id": "1788900668107346898",
+        "lon": -122.388622,
+        "name": "Hudson Ave at 3rd St",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "SF-V30-1",
+        "station_id": "1788900668107346898",
+        "station_type": "classic"
+      },
+      {
         "capacity": 19,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
@@ -12302,6 +12325,6 @@
       }
     ]
   },
-  "last_updated": 1678814802,
+  "last_updated": 1678815542,
   "ttl": 5
 }
