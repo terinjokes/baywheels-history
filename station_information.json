@@ -779,7 +779,7 @@
         "lat": 37.7744791,
         "legacy_id": "1716540857410079456",
         "lon": -122.4139142,
-        "name": "Howard St at Grace St*",
+        "name": "Howard St at Grace St",
         "rental_methods": [
           "KEY",
           "CREDITCARD"
@@ -12325,6 +12325,6 @@
       }
     ]
   },
-  "last_updated": 1679419877,
+  "last_updated": 1679420383,
   "ttl": 5
 }
