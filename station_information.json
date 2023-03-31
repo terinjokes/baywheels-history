@@ -1568,30 +1568,6 @@
         "station_type": "classic"
       },
       {
-        "capacity": 0,
-        "eightd_has_key_dispenser": false,
-        "eightd_station_services": [],
-        "electric_bike_surcharge_waiver": false,
-        "external_id": "20a07c3b-b37e-41e5-bbeb-632e3aae4b46",
-        "has_kiosk": false,
-        "lat": 37.739853017984125,
-        "legacy_id": "361",
-        "lon": -122.38565549254417,
-        "name": "Mendell St at Fairfax Ave",
-        "region_id": "3",
-        "rental_methods": [
-          "CREDITCARD",
-          "KEY"
-        ],
-        "rental_uris": {
-          "android": "https://sfo.lft.to/lastmile_qr_scan",
-          "ios": "https://sfo.lft.to/lastmile_qr_scan"
-        },
-        "short_name": "SF-V30",
-        "station_id": "361",
-        "station_type": "classic"
-      },
-      {
         "capacity": 35,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
@@ -3380,29 +3356,6 @@
         },
         "short_name": "SF-Z6",
         "station_id": "44647200-5fea-47fc-a629-c1884554afb8",
-        "station_type": "classic"
-      },
-      {
-        "capacity": 0,
-        "eightd_has_key_dispenser": false,
-        "eightd_station_services": [],
-        "electric_bike_surcharge_waiver": false,
-        "external_id": "44895a43-3486-4b6c-abc9-196b934c6c81",
-        "has_kiosk": false,
-        "lat": 37.76349722249423,
-        "legacy_id": "572",
-        "lon": -122.47632622718811,
-        "name": "Irving St at 18th Ave",
-        "rental_methods": [
-          "CREDITCARD",
-          "KEY"
-        ],
-        "rental_uris": {
-          "android": "https://sfo.lft.to/lastmile_qr_scan",
-          "ios": "https://sfo.lft.to/lastmile_qr_scan"
-        },
-        "short_name": "SF-M9",
-        "station_id": "572",
         "station_type": "classic"
       },
       {
@@ -6423,30 +6376,6 @@
         },
         "short_name": "SF-C18",
         "station_id": "82ad4cff-001f-49a8-88fa-a5a63d64b9a2",
-        "station_type": "classic"
-      },
-      {
-        "capacity": 0,
-        "eightd_has_key_dispenser": false,
-        "eightd_station_services": [],
-        "electric_bike_surcharge_waiver": false,
-        "external_id": "83b33e8d-bf8c-4a2a-8ee3-942834af27b4",
-        "has_kiosk": false,
-        "lat": 37.7762475,
-        "legacy_id": "74",
-        "lon": -122.4262025,
-        "name": "Laguna St at Hayes St",
-        "region_id": "3",
-        "rental_methods": [
-          "CREDITCARD",
-          "KEY"
-        ],
-        "rental_uris": {
-          "android": "https://sfo.lft.to/lastmile_qr_scan",
-          "ios": "https://sfo.lft.to/lastmile_qr_scan"
-        },
-        "short_name": "SF-J21",
-        "station_id": "74",
         "station_type": "classic"
       },
       {
@@ -12325,6 +12254,6 @@
       }
     ]
   },
-  "last_updated": 1680276532,
+  "last_updated": 1680277148,
   "ttl": 5
 }
