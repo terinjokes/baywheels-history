@@ -1217,7 +1217,7 @@
         "lat": 37.751884,
         "legacy_id": "1796350119944825152",
         "lon": -122.492378,
-        "name": "34th Ave at Ortega St",
+        "name": "37th Ave at Ortega St",
         "rental_methods": [
           "KEY",
           "CREDITCARD"
@@ -12277,6 +12277,6 @@
       }
     ]
   },
-  "last_updated": 1680549407,
+  "last_updated": 1680549923,
   "ttl": 5
 }
