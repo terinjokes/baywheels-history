@@ -1214,9 +1214,9 @@
         "electric_bike_surcharge_waiver": false,
         "external_id": "1796350119944825152",
         "has_kiosk": true,
-        "lat": 37.751884,
+        "lat": 37.75173717215301,
         "legacy_id": "1796350119944825152",
-        "lon": -122.492378,
+        "lon": -122.49560004673242,
         "name": "37th Ave at Ortega St",
         "rental_methods": [
           "KEY",
@@ -12277,6 +12277,6 @@
       }
     ]
   },
-  "last_updated": 1680549923,
+  "last_updated": 1680550447,
   "ttl": 5
 }
