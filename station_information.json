@@ -1208,6 +1208,29 @@
         "station_type": "classic"
       },
       {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1796768684962034320",
+        "has_kiosk": true,
+        "lat": 37.774256,
+        "legacy_id": "1796768684962034320",
+        "lon": -122.40185,
+        "name": "Brannan St at Harriet St",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "SF-K27-3",
+        "station_id": "1796768684962034320",
+        "station_type": "classic"
+      },
+      {
         "capacity": 19,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
@@ -12254,6 +12277,6 @@
       }
     ]
   },
-  "last_updated": 1680646272,
+  "last_updated": 1680646922,
   "ttl": 5
 }
