@@ -1277,6 +1277,29 @@
         "station_type": "classic"
       },
       {
+        "capacity": 27,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1797852360041415006",
+        "has_kiosk": true,
+        "lat": 37.78384421884662,
+        "legacy_id": "1797852360041415006",
+        "lon": -122.390002088434,
+        "name": "Delancey St at Brannan St",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "SF-H30-2",
+        "station_id": "1797852360041415006",
+        "station_type": "classic"
+      },
+      {
         "capacity": 19,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
@@ -12323,6 +12346,6 @@
       }
     ]
   },
-  "last_updated": 1681320303,
+  "last_updated": 1681320842,
   "ttl": 5
 }
