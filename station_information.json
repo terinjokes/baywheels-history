@@ -1254,29 +1254,6 @@
         "station_type": "classic"
       },
       {
-        "capacity": 31,
-        "eightd_has_key_dispenser": false,
-        "eightd_station_services": [],
-        "electric_bike_surcharge_waiver": false,
-        "external_id": "1797399040287081128",
-        "has_kiosk": true,
-        "lat": 37.785889,
-        "legacy_id": "1797399040287081128",
-        "lon": -122.427952,
-        "name": "Post St at Laguna St",
-        "rental_methods": [
-          "KEY",
-          "CREDITCARD"
-        ],
-        "rental_uris": {
-          "android": "https://sfo.lft.to/lastmile_qr_scan",
-          "ios": "https://sfo.lft.to/lastmile_qr_scan"
-        },
-        "short_name": "SF-G20-1",
-        "station_id": "1797399040287081128",
-        "station_type": "classic"
-      },
-      {
         "capacity": 27,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
@@ -12346,6 +12323,6 @@
       }
     ]
   },
-  "last_updated": 1681407592,
+  "last_updated": 1681408102,
   "ttl": 5
 }
