@@ -1277,6 +1277,29 @@
         "station_type": "classic"
       },
       {
+        "capacity": 35,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1800093756410558978",
+        "has_kiosk": true,
+        "lat": 37.7824146203997,
+        "legacy_id": "1800093756410558978",
+        "lon": -122.40019999757254,
+        "name": "Mabini St at Folsom St",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "SF-H28-2",
+        "station_id": "1800093756410558978",
+        "station_type": "classic"
+      },
+      {
         "capacity": 19,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
@@ -12323,6 +12346,6 @@
       }
     ]
   },
-  "last_updated": 1681929960,
+  "last_updated": 1681930474,
   "ttl": 5
 }
