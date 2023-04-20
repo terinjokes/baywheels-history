@@ -1300,6 +1300,29 @@
         "station_type": "classic"
       },
       {
+        "capacity": 29,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1800094563864410450",
+        "has_kiosk": true,
+        "lat": 37.78235803304849,
+        "legacy_id": "1800094563864410450",
+        "lon": -122.39312995744227,
+        "name": "S Park St at 2nd St",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "SF-I30-3",
+        "station_id": "1800094563864410450",
+        "station_type": "classic"
+      },
+      {
         "capacity": 19,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
@@ -12346,6 +12369,6 @@
       }
     ]
   },
-  "last_updated": 1682011609,
+  "last_updated": 1682012144,
   "ttl": 5
 }
