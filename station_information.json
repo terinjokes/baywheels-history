@@ -6670,8 +6670,8 @@
             "docks_availability": "UNLIMITED",
             "id": "87168190-5491-47c8-bb9b-187ddf6052c3",
             "name": "Valet Service",
-            "off_dock_bikes_count": 21,
-            "off_dock_remaining_bike_capacity": 179,
+            "off_dock_bikes_count": 29,
+            "off_dock_remaining_bike_capacity": 171,
             "service_type": "ATTENDED_SERVICE"
           }
         ],
@@ -8687,7 +8687,7 @@
         "station_type": "classic"
       },
       {
-        "capacity": 27,
+        "capacity": 26,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -12380,6 +12380,6 @@
       }
     ]
   },
-  "last_updated": 1682724814,
+  "last_updated": 1682725318,
   "ttl": 5
 }
