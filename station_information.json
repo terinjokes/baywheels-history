@@ -9666,10 +9666,10 @@
         "electric_bike_surcharge_waiver": false,
         "external_id": "c53990d7-f965-40f4-b305-3435e1c95a71",
         "has_kiosk": true,
-        "lat": 37.345758795303155,
+        "lat": 37.346480293729044,
         "legacy_id": "404",
-        "lon": -121.87067806720735,
-        "name": "21st St at Santa Clara St",
+        "lon": -121.86856960181206,
+        "name": "23rd St at Santa Clara St",
         "region_id": "5",
         "rental_methods": [
           "KEY",
@@ -12369,6 +12369,6 @@
       }
     ]
   },
-  "last_updated": 1682703318,
+  "last_updated": 1682703829,
   "ttl": 5
 }
