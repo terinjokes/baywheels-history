@@ -1024,29 +1024,6 @@
         "station_type": "classic"
       },
       {
-        "capacity": 0,
-        "eightd_has_key_dispenser": false,
-        "eightd_station_services": [],
-        "electric_bike_surcharge_waiver": false,
-        "external_id": "1779338900141658726",
-        "has_kiosk": true,
-        "lat": 37.760411,
-        "legacy_id": "1779338900141658726",
-        "lon": -122.503729,
-        "name": "44th Ave at Judah St",
-        "rental_methods": [
-          "KEY",
-          "CREDITCARD"
-        ],
-        "rental_uris": {
-          "android": "https://sfo.lft.to/lastmile_qr_scan",
-          "ios": "https://sfo.lft.to/lastmile_qr_scan"
-        },
-        "short_name": "SF-N2",
-        "station_id": "1779338900141658726",
-        "station_type": "classic"
-      },
-      {
         "capacity": 19,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
@@ -12369,6 +12346,6 @@
       }
     ]
   },
-  "last_updated": 1682960469,
+  "last_updated": 1682961113,
   "ttl": 5
 }
