@@ -10,8 +10,8 @@ jobs:
   scheduled:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: nixbuild/nix-quick-install-action@v16
+      - uses: actions/checkout@v3
+      - uses: nixbuild/nix-quick-install-action@v22
       - run: ./update.sh
         env:
           NIX_PATH: nixpkgs=channel:nixos-unstable
