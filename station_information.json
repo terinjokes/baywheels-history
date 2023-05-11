@@ -4320,10 +4320,10 @@
         "electric_bike_surcharge_waiver": false,
         "external_id": "578169a8-b821-427d-934e-0b5329577ea4",
         "has_kiosk": true,
-        "lat": 37.75499463,
+        "lat": 37.75488391783665,
         "legacy_id": "131",
-        "lon": -122.4258368,
-        "name": "22nd St at Dolores St",
+        "lon": -122.42564865054452,
+        "name": "Dolores St at 22nd St",
         "region_id": "3",
         "rental_methods": [
           "KEY",
@@ -12346,6 +12346,6 @@
       }
     ]
   },
-  "last_updated": 1683828449,
+  "last_updated": 1683829226,
   "ttl": 5
 }
