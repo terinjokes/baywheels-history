@@ -6620,10 +6620,10 @@
         "electric_bike_surcharge_waiver": false,
         "external_id": "86fae8b7-9d4f-499a-9437-422a07103c57",
         "has_kiosk": true,
-        "lat": 37.7789994,
+        "lat": 37.77973791566897,
         "legacy_id": "39",
-        "lon": -122.4368608,
-        "name": "Scott St at Golden Gate Ave",
+        "lon": -122.43700156402238,
+        "name": "Scott St at Turk St",
         "region_id": "3",
         "rental_methods": [
           "KEY",
@@ -12346,6 +12346,6 @@
       }
     ]
   },
-  "last_updated": 1683913683,
+  "last_updated": 1683914189,
   "ttl": 5
 }
