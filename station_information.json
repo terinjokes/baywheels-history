@@ -8749,6 +8749,29 @@
         "station_type": "classic"
       },
       {
+        "capacity": 2,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "b37c5464-6d53-4bbc-b4bd-940e53ba6ae2",
+        "has_kiosk": true,
+        "lat": 37.344018396197576,
+        "legacy_id": "b37c5464-6d53-4bbc-b4bd-940e53ba6ae2",
+        "lon": -121.91506292670965,
+        "name": "San Jose Depot",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "San Jose Depot",
+        "station_id": "b37c5464-6d53-4bbc-b4bd-940e53ba6ae2",
+        "station_type": "classic"
+      },
+      {
         "capacity": 15,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
@@ -12346,6 +12369,6 @@
       }
     ]
   },
-  "last_updated": 1684259799,
+  "last_updated": 1684260445,
   "ttl": 5
 }
