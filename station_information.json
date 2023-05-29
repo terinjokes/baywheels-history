@@ -775,7 +775,7 @@
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
         "external_id": "1716540857410079456",
-        "has_kiosk": true,
+        "has_kiosk": false,
         "lat": 37.7744791,
         "legacy_id": "1716540857410079456",
         "lon": -122.4139142,
@@ -12403,6 +12403,6 @@
       }
     ]
   },
-  "last_updated": 1685397818,
+  "last_updated": 1685398474,
   "ttl": 5
 }
