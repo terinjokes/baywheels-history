@@ -1056,7 +1056,7 @@
         "lat": 37.77691062512612,
         "legacy_id": "1781878223670550976",
         "lon": -122.42463177946529,
-        "name": "Octavia St at Hayes St",
+        "name": "Laguna St at Hayes St",
         "rental_methods": [
           "KEY",
           "CREDITCARD"
@@ -12380,6 +12380,6 @@
       }
     ]
   },
-  "last_updated": 1686595146,
+  "last_updated": 1686595662,
   "ttl": 5
 }
