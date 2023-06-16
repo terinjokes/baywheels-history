@@ -6482,6 +6482,30 @@
         "station_type": "classic"
       },
       {
+        "capacity": 27,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "83b33e8d-bf8c-4a2a-8ee3-942834af27b4",
+        "has_kiosk": true,
+        "lat": 37.7762475,
+        "legacy_id": "74",
+        "lon": -122.4262025,
+        "name": "Laguna St at Hayes St",
+        "region_id": "3",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "SF-J21",
+        "station_id": "83b33e8d-bf8c-4a2a-8ee3-942834af27b4",
+        "station_type": "classic"
+      },
+      {
         "capacity": 19,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
@@ -12357,6 +12381,6 @@
       }
     ]
   },
-  "last_updated": 1686946916,
+  "last_updated": 1686947458,
   "ttl": 5
 }
