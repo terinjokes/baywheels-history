@@ -7315,9 +7315,9 @@
         "electric_bike_surcharge_waiver": false,
         "external_id": "930e63db-726c-4276-b3c3-fc51f32b3ddd",
         "has_kiosk": true,
-        "lat": 37.873558,
+        "lat": 37.8738556998122,
         "legacy_id": "250",
-        "lon": -122.283093,
+        "lon": -122.28298832384976,
         "name": "North Berkeley BART Station",
         "region_id": "14",
         "rental_methods": [
@@ -12370,6 +12370,6 @@
       }
     ]
   },
-  "last_updated": 1687436573,
+  "last_updated": 1687437607,
   "ttl": 5
 }
