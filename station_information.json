@@ -3606,16 +3606,16 @@
         "station_type": "classic"
       },
       {
-        "capacity": 16,
+        "capacity": 20,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
         "external_id": "47fcca45-c6c5-4665-9f34-8852ca3c3ae8",
         "has_kiosk": true,
-        "lat": 37.7522965,
+        "lat": 37.75199174291808,
         "legacy_id": "386",
-        "lon": -122.4196276,
-        "name": "Bartlett St at 24th St",
+        "lon": -122.4189799743526,
+        "name": "24th St BART Station",
         "region_id": "3",
         "rental_methods": [
           "KEY",
@@ -12381,6 +12381,6 @@
       }
     ]
   },
-  "last_updated": 1687460174,
+  "last_updated": 1687460786,
   "ttl": 5
 }
