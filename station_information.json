@@ -299,7 +299,7 @@
         "lat": 37.7616343,
         "legacy_id": "126",
         "lon": -122.3906477,
-        "name": "Esprit Park",
+        "name": "Esprit Park (19th St at Minnesota St)",
         "region_id": "3",
         "rental_methods": [
           "KEY",
@@ -6839,7 +6839,7 @@
         "lat": 37.77341396997343,
         "legacy_id": "56",
         "lon": -122.42731690406801,
-        "name": "Koshland Park",
+        "name": "Koshland Park (Page St at Buchanan St)",
         "region_id": "3",
         "rental_methods": [
           "KEY",
@@ -12370,6 +12370,6 @@
       }
     ]
   },
-  "last_updated": 1687557392,
+  "last_updated": 1687558020,
   "ttl": 5
 }
