@@ -6232,16 +6232,16 @@
         "station_type": "classic"
       },
       {
-        "capacity": 16,
+        "capacity": 26,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
         "external_id": "7d15210b-55fb-4456-8281-781cfa9d5594",
         "has_kiosk": true,
-        "lat": 37.768357,
+        "lat": 37.768384314385024,
         "legacy_id": "560",
-        "lon": -122.452862,
-        "name": "Waller St at Stanyan St",
+        "lon": -122.45196695803196,
+        "name": "Waller St at Shrader St",
         "region_id": "3",
         "rental_methods": [
           "KEY",
@@ -12381,6 +12381,6 @@
       }
     ]
   },
-  "last_updated": 1688060144,
+  "last_updated": 1688062246,
   "ttl": 5
 }
