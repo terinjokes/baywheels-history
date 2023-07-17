@@ -7230,10 +7230,10 @@
         "electric_bike_surcharge_waiver": false,
         "external_id": "91ab197f-ceb5-4dbe-b907-532afa8db43b",
         "has_kiosk": true,
-        "lat": 37.7732674,
+        "lat": 37.773587,
         "legacy_id": "485",
-        "lon": -122.472319,
-        "name": "14th Ave at Fulton St (Temp for Funston/Fulton)",
+        "lon": -122.471357,
+        "name": "Funston Ave at Fulton St",
         "region_id": "3",
         "rental_methods": [
           "KEY",
@@ -12381,6 +12381,6 @@
       }
     ]
   },
-  "last_updated": 1689619198,
+  "last_updated": 1689619710,
   "ttl": 5
 }
