@@ -1352,6 +1352,29 @@
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
+        "external_id": "1835733187981824398",
+        "has_kiosk": true,
+        "lat": 37.805454,
+        "legacy_id": "1835733187981824398",
+        "lon": -122.413668,
+        "name": "Mason St at Bay St",
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "rental_uris": {
+          "android": "https://sfo.lft.to/lastmile_qr_scan",
+          "ios": "https://sfo.lft.to/lastmile_qr_scan"
+        },
+        "short_name": "SF-A25-2",
+        "station_id": "1835733187981824398",
+        "station_type": "classic"
+      },
+      {
+        "capacity": 23,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
         "external_id": "18fb1a9a-e3ee-4a18-a00d-45c1e0d14d16",
         "has_kiosk": true,
         "lat": 37.763333,
@@ -12370,6 +12393,6 @@
       }
     ]
   },
-  "last_updated": 1689718276,
+  "last_updated": 1689718970,
   "ttl": 5
 }
