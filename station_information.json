@@ -4055,10 +4055,10 @@
         "electric_bike_surcharge_waiver": false,
         "external_id": "4f7840d9-aca0-4a53-8664-e9e043d21a72",
         "has_kiosk": true,
-        "lat": 37.77830259472109,
+        "lat": 37.77756936716073,
         "legacy_id": "534",
-        "lon": -122.42645613156891,
-        "name": "Fulton St at Laguna St",
+        "lon": -122.42656908597016,
+        "name": "Laguna St at Grove St",
         "region_id": "3",
         "rental_methods": [
           "KEY",
@@ -12393,6 +12393,6 @@
       }
     ]
   },
-  "last_updated": 1689790003,
+  "last_updated": 1689790835,
   "ttl": 5
 }
