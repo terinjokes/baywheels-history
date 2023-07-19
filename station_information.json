@@ -6574,8 +6574,8 @@
             "docks_availability": "UNLIMITED",
             "id": "84b1ea89-19b6-4f78-92e2-2a161f75e67e",
             "name": "Valet Service",
-            "off_dock_bikes_count": 20,
-            "off_dock_remaining_bike_capacity": 60,
+            "off_dock_bikes_count": 5,
+            "off_dock_remaining_bike_capacity": 75,
             "service_type": "ATTENDED_SERVICE"
           }
         ],
@@ -12404,6 +12404,6 @@
       }
     ]
   },
-  "last_updated": 1689786453,
+  "last_updated": 1689787108,
   "ttl": 5
 }
